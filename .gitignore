@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Log files
+connectivity_log_*.txt
+connectivity_checker.log
+connectivity_checker.error
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
