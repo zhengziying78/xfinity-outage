@@ -67,3 +67,52 @@ Hostname: Ziyings-MacBook-Pro.local
   (0.83s) - https://reddit.com: SUCCESS
 Hostname: Ziyings-MacBook-Pro.local
 
+2025-07-09 09:08:14 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.13s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.42s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-09 09:09:18 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.21s) - https://github.com: SUCCESS
+  (0.71s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-09 09:10:23 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.42s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.41s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-09 09:11:28 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.19s) - https://github.com: SUCCESS
+  (0.44s) - https://google.com: SUCCESS
+  (0.37s) - https://apple.com: SUCCESS
+  (0.46s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-09 09:12:33 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.23s) - https://github.com: SUCCESS
+  (0.44s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.46s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-09 09:13:38 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.26s) - https://github.com: SUCCESS
+  (0.54s) - https://google.com: SUCCESS
+  (0.43s) - https://apple.com: SUCCESS
+  (0.52s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-09 09:14:42 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.19s) - https://github.com: SUCCESS
+  (0.55s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
