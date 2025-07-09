@@ -207,25 +207,6 @@ def send_to_logtail(results, source_token=None):
         # Note: Removed debug print to avoid exposing sensitive token info
         pass
 
-def push_logs_to_git(timestamp):
-    """Push log changes to remote repository."""
-    try:
-        # Add log files to git
-        subprocess.run(['git', 'add', 'logs/'], check=True, capture_output=True)
-        
-        # Commit changes
-        commit_message = f"Add connectivity log entry - {timestamp}"
-        subprocess.run(['git', 'commit', '-m', commit_message], check=True, capture_output=True)
-        
-        # Pull with rebase to avoid merge conflicts
-        subprocess.run(['git', 'pull', '--rebase'], check=True, capture_output=True)
-        
-        # Push to remote
-        subprocess.run(['git', 'push'], check=True, capture_output=True)
-        
-    except subprocess.CalledProcessError:
-        # Ignore git errors (e.g., no changes to commit, network issues)
-        pass
 
 if __name__ == "__main__":
     results = check_connectivity()
@@ -239,5 +220,3 @@ if __name__ == "__main__":
     logtail_token = os.environ.get('LOGTAIL_TOKEN')  # Set via environment variable
     send_to_logtail(results, logtail_token)
     
-    # Push log changes to remote repository
-    # push_logs_to_git(results['timestamp'])  # Disabled - too frequent

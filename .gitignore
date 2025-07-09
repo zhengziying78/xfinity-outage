@@ -5,6 +5,10 @@
 connectivity_checker.log*
 connectivity_checker.error*
 
+# Ignore all log files in logs directory except README.md
+logs/*
+!logs/README.md
+
 # Python
 __pycache__/
 *.py[cod]
