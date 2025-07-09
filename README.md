@@ -63,9 +63,27 @@ sudo launchctl load /Library/LaunchDaemons/com.connectivity.checker.system.plist
 
 ## Log Files
 
-- `connectivity_log_YYYYMMDD.txt` - Daily connectivity results
-- `connectivity_checker.log` - Script output/status messages
-- `connectivity_checker.error` - Error messages
+Log files are organized by hostname under the `logs/` directory:
+
+- `logs/{hostname}/connectivity_log_YYYYMMDD.txt` - Daily connectivity results with response times and hostname
+- `logs/{hostname}/connectivity_checker.log` - Script output/status messages  
+- `logs/{hostname}/connectivity_checker.error` - Error messages
+
+For example, on a machine named `Ziyings-MacBook-Pro.local`, logs would be stored in:
+- `logs/Ziyings-MacBook-Pro.local/connectivity_log_20250709.txt`
+- `logs/Ziyings-MacBook-Pro.local/connectivity_checker.log`
+- `logs/Ziyings-MacBook-Pro.local/connectivity_checker.error`
+
+### Log Rotation
+
+To prevent log files from growing indefinitely, configure automatic log rotation using newsyslog:
+
+```bash
+# Install the newsyslog configuration
+sudo cp connectivity_checker.newsyslog.conf /etc/newsyslog.d/
+```
+
+This will automatically rotate the `connectivity_checker.log` and `connectivity_checker.error` files when they exceed 1MB, keeping 7 rotated files.
 
 ## Requirements
 

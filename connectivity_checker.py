@@ -4,7 +4,8 @@ import urllib.error
 import datetime
 import time
 import subprocess
-import threading
+import socket
+import os
 from concurrent.futures import ThreadPoolExecutor
 
 def get_wifi_network():
@@ -99,8 +100,14 @@ def check_connectivity():
 def log_results(results, log_file=None):
     """Append results to log file."""
     if log_file is None:
+        hostname = socket.gethostname()
         date_str = datetime.datetime.now().strftime('%Y%m%d')
-        log_file = f'connectivity_log_{date_str}.txt'
+        log_dir = f'logs/{hostname}'
+        
+        # Create hostname directory if it doesn't exist
+        os.makedirs(log_dir, exist_ok=True)
+        
+        log_file = f'{log_dir}/connectivity_log_{date_str}.txt'
     
     with open(log_file, 'a') as f:
         f.write(f"{results['timestamp']} - ")
@@ -111,7 +118,10 @@ def log_results(results, log_file=None):
         for check in results['checks']:
             duration_str = f"({check['duration']:.2f}s)"
             f.write(f"  {duration_str} - {check['url']}: {check['status']}\n")
-        f.write("\n")
+        
+        # Add hostname at the end
+        hostname = socket.gethostname()
+        f.write(f"Hostname: {hostname}\n\n")
 
 if __name__ == "__main__":
     results = check_connectivity()
