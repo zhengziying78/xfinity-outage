@@ -21,5 +21,10 @@
     <string>/Users/zhengziying/Repos/xfinity-outage</string>
     <key>UserName</key>
     <string>zhengziying</string>
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>LOGTAIL_TOKEN</key>
+        <string>fake_token_12345</string>
+    </dict>
 </dict>
 </plist>
