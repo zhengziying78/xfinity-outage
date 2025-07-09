@@ -4,88 +4,59 @@ A Python script that monitors internet connectivity by testing access to popular
 
 ## Features
 
-- Tests connectivity to GitHub, Google, Apple, and Reddit
-- Logs results with timestamps to daily log files (`connectivity_log_YYYYMMDD.txt`)
-- Measures response times for successful connections
+- Tests connectivity to GitHub, Google, Apple, and Reddit in parallel
+- Logs results with timestamps to daily log files organized by hostname
+- Measures response times for each website tested
+- Optional remote logging to Logtail (Better Stack) for centralized monitoring
 - Automated scheduling via macOS LaunchAgent/LaunchDaemon
 
 ## Usage
 
 ### Manual Run
+
 ```bash
 python3 connectivity_checker.py
 ```
 
-### Automated Scheduling
-
-#### Option 1: User-level (LaunchAgent)
-Runs when user is logged in, pauses during sleep:
-
-```bash
-# Install
-cp com.connectivity.checker.plist ~/Library/LaunchAgents/
-launchctl load ~/Library/LaunchAgents/com.connectivity.checker.plist
-
-# Stop
-launchctl unload ~/Library/LaunchAgents/com.connectivity.checker.plist
+Output example:
+```
+2025-07-09 11:03:43 - WiFi: GoTitansFC - success, 4/4 sites accessible
 ```
 
-#### Option 2: System-level (LaunchDaemon)
-Runs continuously, even during sleep/wake cycles:
+### Check Local Logs
+
+View detailed connectivity results:
 
 ```bash
-# Install (requires sudo)
-sudo cp com.connectivity.checker.system.plist /Library/LaunchDaemons/
-sudo chown root:wheel /Library/LaunchDaemons/com.connectivity.checker.system.plist
-sudo chmod 644 /Library/LaunchDaemons/com.connectivity.checker.system.plist
-sudo launchctl load /Library/LaunchDaemons/com.connectivity.checker.system.plist
+# View today's connectivity log
+cat logs/$(hostname)/connectivity_log_$(date +%Y%m%d).txt
 
-# Stop
-sudo launchctl unload /Library/LaunchDaemons/com.connectivity.checker.system.plist
+# View recent entries
+tail -f logs/$(hostname)/connectivity_log_$(date +%Y%m%d).txt
+
+# View script output
+tail -f logs/connectivity_checker.log
 ```
 
-### Updating Configuration
+### Check Remote Logs
 
-After modifying plist files, reload the service:
+If remote logging is enabled, view logs at:
+**Live Tail**: https://telemetry.betterstack.com/team/387653/tail
 
-**For LaunchAgent:**
-```bash
-launchctl unload ~/Library/LaunchAgents/com.connectivity.checker.plist
-launchctl load ~/Library/LaunchAgents/com.connectivity.checker.plist
-```
+Search examples:
+- `hostname:"Ziyings-MacBook-Pro.local"` - Filter by machine
+- `status:"failed"` - Show only failures
+- `wifi_network:"GoTitansFC"` - Filter by WiFi network
+- `success_percentage:<100` - Show partial connectivity issues
+- `failed_count:>0` - Show entries with any failures
 
-**For LaunchDaemon:**
-```bash
-sudo launchctl unload /Library/LaunchDaemons/com.connectivity.checker.system.plist
-sudo cp com.connectivity.checker.system.plist /Library/LaunchDaemons/
-sudo launchctl load /Library/LaunchDaemons/com.connectivity.checker.system.plist
-```
+## Setup & Configuration
 
-## Log Files
+📋 **Setup Guide**: [`setup/README.md`](setup/README.md) - Complete installation and configuration instructions
 
-Log files are organized by hostname under the `logs/` directory:
-
-- `logs/{hostname}/connectivity_log_YYYYMMDD.txt` - Daily connectivity results with response times and hostname
-- `logs/{hostname}/connectivity_checker.log` - Script output/status messages  
-- `logs/{hostname}/connectivity_checker.error` - Error messages
-
-For example, on a machine named `Ziyings-MacBook-Pro.local`, logs would be stored in:
-- `logs/Ziyings-MacBook-Pro.local/connectivity_log_20250709.txt`
-- `logs/Ziyings-MacBook-Pro.local/connectivity_checker.log`
-- `logs/Ziyings-MacBook-Pro.local/connectivity_checker.error`
-
-### Log Rotation
-
-To prevent log files from growing indefinitely, configure automatic log rotation using newsyslog:
-
-```bash
-# Install the newsyslog configuration
-sudo cp connectivity_checker.newsyslog.conf /etc/newsyslog.d/
-```
-
-This will automatically rotate the `connectivity_checker.log` and `connectivity_checker.error` files when they exceed 1MB, keeping 7 rotated files.
+📊 **Log Details**: [`logs/README.md`](logs/README.md) - Log organization and remote logging setup
 
 ## Requirements
 
-- Python 3 (uses built-in `urllib` module, no external dependencies)
+- Python 3 (uses built-in `urllib` and `concurrent.futures` modules, no external dependencies)
 - macOS with launchctl for scheduling

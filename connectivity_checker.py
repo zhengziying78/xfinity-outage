@@ -6,6 +6,7 @@ import time
 import subprocess
 import socket
 import os
+import json
 from concurrent.futures import ThreadPoolExecutor
 
 def get_wifi_network():
@@ -68,8 +69,39 @@ def check_connectivity():
         'https://reddit.com'
     ]
     
+    # Get timezone info
+    local_tz = time.tzname[time.daylight]
+    # Map common timezone abbreviations to full names
+    timezone_map = {
+        'PST': 'Pacific Standard Time',
+        'PDT': 'Pacific Daylight Time',
+        'EST': 'Eastern Standard Time',
+        'EDT': 'Eastern Daylight Time',
+        'MST': 'Mountain Standard Time',
+        'MDT': 'Mountain Daylight Time',
+        'CST': 'Central Standard Time',
+        'CDT': 'Central Daylight Time',
+        'HST': 'Hawaii Standard Time',
+        'HDT': 'Hawaii Daylight Time',
+        'AKST': 'Alaska Standard Time',
+        'AKDT': 'Alaska Daylight Time'
+    }
+    timezone_full = timezone_map.get(local_tz, local_tz)
+    
+    # Get GMT offset
+    local_time = time.localtime()
+    offset_seconds = -time.timezone + (time.daylight * 3600)
+    offset_hours = offset_seconds // 3600
+    offset_minutes = abs(offset_seconds % 3600) // 60
+    gmt_offset = f"GMT{offset_hours:+03d}{offset_minutes:02d}"
+    
+    # Create comprehensive timezone info
+    timezone_info = f"{local_tz} ({timezone_full}) {gmt_offset}"
+    
     results = {
         'timestamp': datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+        'timestamp_utc': datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S'),
+        'timezone_local': timezone_info,  # Comprehensive timezone info
         'wifi_network': get_wifi_network(),
         'checks': []
     }
@@ -123,6 +155,58 @@ def log_results(results, log_file=None):
         hostname = socket.gethostname()
         f.write(f"Hostname: {hostname}\n\n")
 
+def send_to_logtail(results, source_token=None):
+    """Send connectivity results to Logtail."""
+    if not source_token:
+        print("DEBUG: No LOGTAIL_TOKEN provided, skipping remote logging")
+        return  # Skip if no token provided
+    
+    try:
+        success_count = sum(1 for check in results['checks'] if check['status'] == 'SUCCESS')
+        total_count = len(results['checks'])
+        failed_count = total_count - success_count
+        success_percentage = round((success_count / total_count) * 100, 1) if total_count > 0 else 0
+        failed_percentage = round((failed_count / total_count) * 100, 1) if total_count > 0 else 0
+        status = "success" if success_count == total_count else "failed"
+        
+        # Create one-line summary message
+        message = f"{results['timestamp']} - WiFi: {results['wifi_network']} - {status}, {success_count}/{total_count} sites accessible"
+        
+        # Prepare log data with hostname as separate field for querying
+        log_data = {
+            'message': message,
+            'hostname': socket.gethostname(),
+            'timestamp_utc': results['timestamp_utc'],  # Use UTC for remote logs
+            'timestamp_local': results['timestamp'],  # Include local time for reference
+            'timezone_local': results['timezone_local'],  # Include timezone info
+            'wifi_network': results['wifi_network'],
+            'status': status,
+            'success_count': success_count,
+            'failed_count': failed_count,
+            'total_count': total_count,
+            'success_percentage': success_percentage,
+            'failed_percentage': failed_percentage
+        }
+        
+        # Send to Logtail
+        headers = {
+            'Authorization': f'Bearer {source_token}',
+            'Content-Type': 'application/json'
+        }
+        
+        response = urllib.request.Request(
+            'https://s1374986.eu-nbg-2.betterstackdata.com/',
+            data=json.dumps(log_data).encode('utf-8'),
+            headers=headers
+        )
+        
+        urllib.request.urlopen(response, timeout=10)
+        
+    except Exception as e:
+        # Ignore logging errors to prevent script failure
+        # Note: Removed debug print to avoid exposing sensitive token info
+        pass
+
 def push_logs_to_git(timestamp):
     """Push log changes to remote repository."""
     try:
@@ -151,5 +235,9 @@ if __name__ == "__main__":
     status = "success" if success_count == total_count else "failed"
     print(f"{results['timestamp']} - WiFi: {results['wifi_network']} - {status}, {success_count}/{total_count} sites accessible")
     
+    # Send to Logtail (set your source token here)
+    logtail_token = os.environ.get('LOGTAIL_TOKEN')  # Set via environment variable
+    send_to_logtail(results, logtail_token)
+    
     # Push log changes to remote repository
-    push_logs_to_git(results['timestamp'])
+    # push_logs_to_git(results['timestamp'])  # Disabled - too frequent
