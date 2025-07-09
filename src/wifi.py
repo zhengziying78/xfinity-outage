@@ -1,9 +1,8 @@
 import subprocess
 
 
-def get_wifi_network():
-    """Get the currently connected WiFi network name."""
-    # Try method 1: networksetup (works for regular WiFi)
+def get_wifi_network_via_networksetup():
+    """Get WiFi network name using networksetup command (works for regular WiFi)."""
     try:
         result = subprocess.run(['networksetup', '-getairportnetwork', 'en0'], 
                               capture_output=True, text=True, check=True)
@@ -12,8 +11,11 @@ def get_wifi_network():
             return output.replace("Current Wi-Fi Network: ", "")
     except:
         pass
-    
-    # Try method 2: system_profiler (works for hotspots and regular WiFi)
+    return None
+
+
+def get_wifi_network_via_system_profiler():
+    """Get WiFi network name using system_profiler command (works for hotspots and regular WiFi)."""
     try:
         result = subprocess.run(['system_profiler', 'SPAirPortDataType'], 
                               capture_output=True, text=True, check=True)
@@ -29,5 +31,19 @@ def get_wifi_network():
                             return network_name
     except:
         pass
+    return None
+
+
+def get_wifi_network():
+    """Get the currently connected WiFi network name."""
+    # Try method 1: networksetup (works for regular WiFi)
+    network_name = get_wifi_network_via_networksetup()
+    if network_name:
+        return network_name
+    
+    # Try method 2: system_profiler (works for hotspots and regular WiFi)
+    network_name = get_wifi_network_via_system_profiler()
+    if network_name:
+        return network_name
     
     return "Not connected to WiFi"
