@@ -123,6 +123,26 @@ def log_results(results, log_file=None):
         hostname = socket.gethostname()
         f.write(f"Hostname: {hostname}\n\n")
 
+def push_logs_to_git(timestamp):
+    """Push log changes to remote repository."""
+    try:
+        # Add log files to git
+        subprocess.run(['git', 'add', 'logs/'], check=True, capture_output=True)
+        
+        # Commit changes
+        commit_message = f"Add connectivity log entry - {timestamp}"
+        subprocess.run(['git', 'commit', '-m', commit_message], check=True, capture_output=True)
+        
+        # Pull with rebase to avoid merge conflicts
+        subprocess.run(['git', 'pull', '--rebase'], check=True, capture_output=True)
+        
+        # Push to remote
+        subprocess.run(['git', 'push'], check=True, capture_output=True)
+        
+    except subprocess.CalledProcessError:
+        # Ignore git errors (e.g., no changes to commit, network issues)
+        pass
+
 if __name__ == "__main__":
     results = check_connectivity()
     log_results(results)
@@ -130,3 +150,6 @@ if __name__ == "__main__":
     total_count = len(results['checks'])
     status = "success" if success_count == total_count else "failed"
     print(f"{results['timestamp']} - WiFi: {results['wifi_network']} - {status}, {success_count}/{total_count} sites accessible")
+    
+    # Push log changes to remote repository
+    push_logs_to_git(results['timestamp'])
