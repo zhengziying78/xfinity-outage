@@ -82,7 +82,9 @@ The script can optionally send connectivity summaries to Logtail (Better Stack) 
 
 ### Viewing Remote Logs
 
-**Live Tail**: https://telemetry.betterstack.com/team/387653/tail
+**Live Tail**: https://telemetry.betterstack.com/team/387653/tail?rf=now-60m
+
+You can change the time range by modifying the URL parameter (e.g., `?rf=now-30m` for 30 minutes, `?rf=now-24h` for 24 hours) or by using the time range selector in the Logtail web UI.
 
 **Search Examples**:
 - `hostname:"Ziyings-MacBook-Pro.local"` - Filter by specific machine
@@ -97,4 +99,3 @@ The script can optionally send connectivity summaries to Logtail (Better Stack) 
 
 See [`../setup/README.md`](../setup/README.md) for complete remote logging setup instructions.
 
-**Status**: Remote logging is disabled if no `LOGTAIL_TOKEN` environment variable is set.

@@ -4,12 +4,41 @@ Complete setup guide for the Internet Connectivity Checker.
 
 ## Quick Start
 
-1. **Manual Run** (for testing):
-   ```bash
-   python3 connectivity_checker.py
-   ```
+### Manual Run
 
-2. **Automated Setup** (choose one):
+For testing or one-time checks:
+
+```bash
+python3 connectivity_checker.py
+```
+
+Output example:
+```
+2025-07-09 11:03:43 - WiFi: GoTitansFC - success, 4/4 sites accessible
+```
+
+### Check Local Logs
+
+View detailed connectivity results:
+
+```bash
+# View today's connectivity log
+cat logs/$(hostname)/connectivity_log_$(date +%Y%m%d).txt
+
+# View recent entries
+tail -f logs/$(hostname)/connectivity_log_$(date +%Y%m%d).txt
+
+# View script output
+tail -f logs/connectivity_checker.log
+```
+
+### Check Remote Logs
+
+For remote log viewing and search examples, see [`../logs/README.md`](../logs/README.md).
+
+## Automated Setup
+
+Choose one of the following options:
    - [User-level LaunchAgent](#user-level-launchagent) - Runs when user is logged in
    - [System-level LaunchDaemon](#system-level-launchdaemon) - Runs continuously
 
@@ -133,7 +162,7 @@ Run the script manually to verify logs are being sent:
 python3 connectivity_checker.py
 ```
 
-Check your logs at: https://telemetry.betterstack.com/team/387653/tail
+Check your logs using the URLs in [`../logs/README.md`](../logs/README.md)
 
 ## Troubleshooting
 
@@ -151,22 +180,3 @@ Check your logs at: https://telemetry.betterstack.com/team/387653/tail
 - Check newsyslog configuration: `sudo cat /etc/newsyslog.d/connectivity_checker.newsyslog.conf`
 - Test rotation: `sudo newsyslog -v`
 
-## Requirements
-
-### System Requirements
-- Python 3 (built-in modules only, no external dependencies)
-- macOS with launchctl for scheduling
-
-### Python Modules Used
-The script uses only built-in Python modules:
-- `urllib.request` - HTTP requests for connectivity testing
-- `urllib.error` - HTTP error handling
-- `datetime` - Timestamp generation
-- `time` - Response time measurement and timezone handling
-- `subprocess` - WiFi network detection and git operations
-- `socket` - Hostname detection
-- `os` - Environment variable access
-- `json` - JSON serialization for remote logging
-- `concurrent.futures` - Parallel connectivity testing
-
-**No external dependencies or pip installs required.**

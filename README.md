@@ -7,48 +7,19 @@ A Python script that monitors internet connectivity by testing access to popular
 - Tests connectivity to GitHub, Google, Apple, and Reddit in parallel
 - Logs results with timestamps to daily log files organized by hostname
 - Measures response times for each website tested
-- Optional remote logging to Logtail (Better Stack) for centralized monitoring
+- Remote logging to Logtail (Better Stack) for centralized monitoring
 - Automated scheduling via macOS LaunchAgent/LaunchDaemon
 
 ## Usage
 
-### Manual Run
+For manual testing and local log viewing, see [`setup/README.md`](setup/README.md).
 
-```bash
-python3 connectivity_checker.py
-```
+### Remote Logs
 
-Output example:
-```
-2025-07-09 11:03:43 - WiFi: GoTitansFC - success, 4/4 sites accessible
-```
+View remote logs at:
+**Live Tail**: https://telemetry.betterstack.com/team/387653/tail?rf=now-60m
 
-### Check Local Logs
-
-View detailed connectivity results:
-
-```bash
-# View today's connectivity log
-cat logs/$(hostname)/connectivity_log_$(date +%Y%m%d).txt
-
-# View recent entries
-tail -f logs/$(hostname)/connectivity_log_$(date +%Y%m%d).txt
-
-# View script output
-tail -f logs/connectivity_checker.log
-```
-
-### Check Remote Logs
-
-If remote logging is enabled, view logs at:
-**Live Tail**: https://telemetry.betterstack.com/team/387653/tail
-
-Search examples:
-- `hostname:"Ziyings-MacBook-Pro.local"` - Filter by machine
-- `status:"failed"` - Show only failures
-- `wifi_network:"GoTitansFC"` - Filter by WiFi network
-- `success_percentage:<100` - Show partial connectivity issues
-- `failed_count:>0` - Show entries with any failures
+You can change the time range by modifying the URL parameter (e.g., `?rf=now-30m` for 30 minutes, `?rf=now-24h` for 24 hours) or by using the time range selector in the Logtail web UI.
 
 ## Setup & Configuration
 
