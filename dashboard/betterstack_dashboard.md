@@ -5,12 +5,24 @@
 ### Chart Type: Pie Chart
 ### Query Configuration:
 ```sql
--- Group by status for the last N hours (default 3 hours)
+-- Group by status for the last N hours (using dashboard time picker)
 SELECT 
   status,
   COUNT(*) as count
 FROM logs 
-WHERE timestamp >= NOW() - INTERVAL 3 HOUR
+WHERE timestamp >= $__timeFrom()
+  AND timestamp <= $__timeTo()
+GROUP BY status
+```
+
+**Alternative with variable:**
+```sql
+-- Using a dashboard variable for hours
+SELECT 
+  status,
+  COUNT(*) as count
+FROM logs 
+WHERE timestamp >= NOW() - INTERVAL $hours HOUR
 GROUP BY status
 ```
 
@@ -38,12 +50,24 @@ GROUP BY status
 ### Chart Type: Bar Chart
 ### Query Configuration:
 ```sql
--- Show failed_count over time for the last N hours
+-- Show failed_count over time (using dashboard time picker)
 SELECT 
   DATE_TRUNC('minute', timestamp) as time_bucket,
   failed_count
 FROM logs 
-WHERE timestamp >= NOW() - INTERVAL 3 HOUR
+WHERE timestamp >= $__timeFrom()
+  AND timestamp <= $__timeTo()
+ORDER BY time_bucket
+```
+
+**Alternative with variable:**
+```sql
+-- Using a dashboard variable for hours
+SELECT 
+  DATE_TRUNC('minute', timestamp) as time_bucket,
+  failed_count
+FROM logs 
+WHERE timestamp >= NOW() - INTERVAL $hours HOUR
 ORDER BY time_bucket
 ```
 
@@ -66,11 +90,32 @@ ORDER BY time_bucket
 
 ---
 
+## Making Time Range Dynamic:
+
+### Method 1: Dashboard Time Picker (Recommended)
+- Use `$__timeFrom()` and `$__timeTo()` macros
+- BetterStack automatically provides these based on the dashboard time picker
+- Users can select "Last 3 hours", "Last 24 hours", etc. from dropdown
+
+### Method 2: Dashboard Variables
+1. Create a dashboard variable called `hours`
+2. Set default value to `3`
+3. Add options: 1, 3, 6, 12, 24
+4. Use `$hours` in your queries
+
+### Method 3: Template Variables
+```sql
+-- Create a template variable in dashboard settings
+-- Variable name: time_range
+-- Options: "1 HOUR", "3 HOUR", "6 HOUR", "12 HOUR", "24 HOUR"
+WHERE timestamp >= NOW() - INTERVAL $time_range
+```
+
 ## Dashboard Layout Suggestions:
 
 1. **Row 1**: Place the pie chart (Success vs Failed percentage)
 2. **Row 2**: Place the bar chart (Failed count timeline)
-3. **Time Range Control**: Add a global time picker for N hours (default 3)
+3. **Time Range Control**: Add a global time picker or variable dropdown
 
 ## Available Fields in Your Data:
 Based on your logging code, these fields are available:
