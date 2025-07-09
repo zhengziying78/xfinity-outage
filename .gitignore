@@ -1,9 +1,6 @@
 # macOS
 .DS_Store
 
-# Log files (only ignore logs at root level, not under logs/{hostname}/)
-connectivity_log_*.txt
-
 # Always ignore stdout/stderr logs and their rotated versions (everywhere)
 connectivity_checker.log*
 connectivity_checker.error*
