@@ -31,3 +31,29 @@ For manual testing and local log viewing, see [`setup/README.md`](setup/README.m
 
 - Python 3 (uses built-in `urllib` and `concurrent.futures` modules, no external dependencies)
 - macOS with launchctl for scheduling
+
+## Testing
+
+This project includes comprehensive unit tests for all modules. The test suite covers:
+
+- **Logging functionality**: File logging, remote logging (Logtail), and data preparation
+- **Site checking**: HTTP requests, error handling, and concurrent execution
+- **Timestamp handling**: Timezone calculations and formatting
+- **WiFi detection**: Network name detection via multiple methods
+
+### Running Tests
+
+```bash
+# Install test dependencies
+pip install pytest pytest-cov
+
+# Run all tests
+pytest tests/ -v
+
+# Run tests with coverage
+pytest tests/ -v --cov=src --cov-report=term-missing
+```
+
+### Continuous Integration
+
+GitHub Actions automatically runs all tests on every commit to ensure code quality and functionality.
