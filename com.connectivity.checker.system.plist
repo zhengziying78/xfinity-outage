@@ -7,20 +7,20 @@
     <key>ProgramArguments</key>
     <array>
         <string>/usr/bin/python3</string>
-        <string>/Users/zhengziying/Repos/xfinity-outage/connectivity_checker.py</string>
+        <string>/PATH/TO/PROJECT/connectivity_checker.py</string>
     </array>
     <key>StartInterval</key>
     <integer>60</integer>
     <key>RunAtLoad</key>
     <true/>
     <key>StandardOutPath</key>
-    <string>/Users/zhengziying/Repos/xfinity-outage/logs/connectivity_checker.log</string>
+    <string>/PATH/TO/PROJECT/logs/connectivity_checker.log</string>
     <key>StandardErrorPath</key>
-    <string>/Users/zhengziying/Repos/xfinity-outage/logs/connectivity_checker.error</string>
+    <string>/PATH/TO/PROJECT/logs/connectivity_checker.error</string>
     <key>WorkingDirectory</key>
-    <string>/Users/zhengziying/Repos/xfinity-outage</string>
+    <string>/PATH/TO/PROJECT</string>
     <key>UserName</key>
-    <string>zhengziying</string>
+    <string>YOUR_USERNAME</string>
     <key>EnvironmentVariables</key>
     <dict>
         <key>LOGTAIL_TOKEN</key>

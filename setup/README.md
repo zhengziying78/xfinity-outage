@@ -42,6 +42,12 @@ For remote log viewing and search examples, see [`../logs/README.md`](../logs/RE
 Runs continuously, even during sleep/wake cycles:
 
 ```bash
+# First, customize the plist file with your paths and username
+# Replace placeholders with actual values (run from project directory):
+sed -i '' "s|/PATH/TO/PROJECT|$(pwd)|g" com.connectivity.checker.system.plist
+sed -i '' "s|YOUR_USERNAME|$(whoami)|g" com.connectivity.checker.system.plist
+sed -i '' "s|fake_token_12345|YOUR_ACTUAL_LOGTAIL_TOKEN|g" com.connectivity.checker.system.plist
+
 # Install (requires sudo)
 sudo cp com.connectivity.checker.system.plist /Library/LaunchDaemons/
 sudo chown root:wheel /Library/LaunchDaemons/com.connectivity.checker.system.plist
@@ -67,6 +73,11 @@ sudo launchctl load /Library/LaunchDaemons/com.connectivity.checker.system.plist
 To prevent log files from growing indefinitely, configure automatic log rotation:
 
 ```bash
+# First, customize the newsyslog configuration file
+# Replace placeholders with actual values (run from project directory):
+sed -i '' "s|/PATH/TO/PROJECT|$(pwd)|g" connectivity_checker.newsyslog.conf
+sed -i '' "s|YOUR_USERNAME|$(whoami)|g" connectivity_checker.newsyslog.conf
+
 # Install the newsyslog configuration
 sudo cp connectivity_checker.newsyslog.conf /etc/newsyslog.d/
 ```
