@@ -17,7 +17,7 @@ logs/
 
 ### Daily Connectivity Logs
 **Location**: `logs/{hostname}/connectivity_log_YYYYMMDD.txt`
-**Git Tracking**: Yes (tracked in repository)
+**Git Tracking**: No (local only)
 **Purpose**: Historical record of connectivity test results
 
 **Format**:
@@ -39,7 +39,7 @@ Hostname: Ziyings-MacBook-Pro.local
 ## Example Files
 
 For hostname `Ziyings-MacBook-Pro.local`:
-- `logs/Ziyings-MacBook-Pro.local/connectivity_log_20250709.txt` (tracked in git)
+- `logs/Ziyings-MacBook-Pro.local/connectivity_log_20250709.txt` (local only)
 - `logs/connectivity_checker.log` (local only)
 - `logs/connectivity_checker.error` (local only)
 
