@@ -1,6 +1,9 @@
 # macOS
 .DS_Store
 
+# VSCode
+.vscode/
+
 # Always ignore stdout/stderr logs and their rotated versions (everywhere)
 connectivity_checker.log*
 connectivity_checker.error*
