@@ -8,7 +8,7 @@ A Python script that monitors internet connectivity by testing access to popular
 - Logs results with timestamps to daily log files organized by hostname
 - Measures response times for each website tested
 - Remote logging to Logtail (Better Stack) for centralized monitoring
-- Automated scheduling via macOS LaunchAgent/LaunchDaemon
+- Automated scheduling via macOS LaunchDaemon
 
 ## Usage
 

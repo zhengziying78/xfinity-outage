@@ -8,8 +8,8 @@ Technical details about log organization, formats, and remote logging configurat
 logs/
 ├── {hostname}/
 │   └── connectivity_log_YYYYMMDD.txt  # Daily connectivity test results
-├── connectivity_checker.log           # Script stdout (local only)
-├── connectivity_checker.error         # Script stderr (local only)
+├── connectivity_checker.log           # Script stdout
+├── connectivity_checker.error         # Script stderr
 └── README.md
 ```
 

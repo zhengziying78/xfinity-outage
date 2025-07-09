@@ -38,24 +38,6 @@ For remote log viewing and search examples, see [`../logs/README.md`](../logs/RE
 
 ## Automated Setup
 
-Choose one of the following options:
-   - [User-level LaunchAgent](#user-level-launchagent) - Runs when user is logged in
-   - [System-level LaunchDaemon](#system-level-launchdaemon) - Runs continuously
-
-## Automated Scheduling
-
-### User-level (LaunchAgent)
-Runs when user is logged in, pauses during sleep:
-
-```bash
-# Install
-cp com.connectivity.checker.plist ~/Library/LaunchAgents/
-launchctl load ~/Library/LaunchAgents/com.connectivity.checker.plist
-
-# Stop
-launchctl unload ~/Library/LaunchAgents/com.connectivity.checker.plist
-```
-
 ### System-level (LaunchDaemon)
 Runs continuously, even during sleep/wake cycles:
 
@@ -72,15 +54,8 @@ sudo launchctl unload /Library/LaunchDaemons/com.connectivity.checker.system.pli
 
 ### Updating Configuration
 
-After modifying plist files, reload the service:
+After modifying the plist file, reload the service:
 
-**For LaunchAgent:**
-```bash
-launchctl unload ~/Library/LaunchAgents/com.connectivity.checker.plist
-launchctl load ~/Library/LaunchAgents/com.connectivity.checker.plist
-```
-
-**For LaunchDaemon:**
 ```bash
 sudo launchctl unload /Library/LaunchDaemons/com.connectivity.checker.system.plist
 sudo cp com.connectivity.checker.system.plist /Library/LaunchDaemons/
@@ -140,12 +115,6 @@ If your LOGTAIL_TOKEN is accidentally exposed (in git history, shared publicly, 
 export LOGTAIL_TOKEN="your_actual_token_here"
 ```
 
-**For LaunchAgent:**
-Add to your shell profile (~/.zshrc or ~/.bash_profile):
-```bash
-export LOGTAIL_TOKEN="your_actual_token_here"
-```
-
 **For LaunchDaemon:**
 Add to your plist file:
 ```xml
@@ -166,7 +135,7 @@ Check your logs using the URLs in [`../logs/README.md`](../logs/README.md)
 
 ## Troubleshooting
 
-### LaunchAgent/LaunchDaemon Issues
+### LaunchDaemon Issues
 - Check logs: `tail -f logs/connectivity_checker.log`
 - Verify plist syntax: `plutil -lint your_plist_file.plist`
 - Check if loaded: `launchctl list | grep connectivity`
