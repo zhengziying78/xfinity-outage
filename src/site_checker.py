@@ -6,6 +6,15 @@ from .wifi import get_wifi_network
 from .timestamp import get_timestamp_info
 
 
+# Default websites to check for connectivity
+DEFAULT_WEBSITES = [
+    'https://github.com',
+    'https://google.com',
+    'https://apple.com',
+    'https://reddit.com'
+]
+
+
 def check_single_site(url):
     """Check connectivity to a single website."""
     start_time = time.time()
@@ -27,20 +36,16 @@ def check_single_site(url):
     }
 
 
-def check_connectivity():
+def check_connectivity(websites=None):
     """Check internet connectivity by testing multiple well-known websites."""
-    websites = [
-        'https://github.com',
-        'https://google.com',
-        'https://apple.com',
-        'https://reddit.com'
-    ]
+    if websites is None:
+        websites = DEFAULT_WEBSITES
     
     # Get timestamp and timezone info
     timestamp_info = get_timestamp_info()
     
     results = {
-        'timestamp': timestamp_info['timestamp'],
+        'timestamp': timestamp_info['timestamp_local'],
         'timestamp_utc': timestamp_info['timestamp_utc'],
         'timezone_local': timestamp_info['timezone_local'],
         'wifi_network': get_wifi_network(),

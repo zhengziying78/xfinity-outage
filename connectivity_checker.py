@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 import os
 from src.site_checker import check_connectivity
-from src.logging import log_results, send_to_logtail
+from src.logging import log_to_file, send_to_logtail
 
 
 if __name__ == "__main__":
     results = check_connectivity()
-    log_results(results)
+    log_to_file(results)
     success_count = sum(1 for check in results['checks'] if check['status'] == 'SUCCESS')
     total_count = len(results['checks'])
     status = "success" if success_count == total_count else "failed"
