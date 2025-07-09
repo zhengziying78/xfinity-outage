@@ -4,6 +4,8 @@ import urllib.error
 import datetime
 import time
 import subprocess
+import threading
+from concurrent.futures import ThreadPoolExecutor
 
 def get_wifi_network():
     """Get the currently connected WiFi network name."""
@@ -36,6 +38,26 @@ def get_wifi_network():
     
     return "Not connected to WiFi"
 
+def check_single_site(url):
+    """Check connectivity to a single website."""
+    start_time = time.time()
+    try:
+        response = urllib.request.urlopen(url, timeout=5)
+        duration = time.time() - start_time
+        status = 'SUCCESS' if response.getcode() == 200 else f'HTTP_{response.getcode()}'
+    except urllib.error.URLError as e:
+        duration = time.time() - start_time
+        status = f'FAILED: {str(e)}'
+    except Exception as e:
+        duration = time.time() - start_time
+        status = f'FAILED: {str(e)}'
+    
+    return {
+        'url': url,
+        'status': status,
+        'duration': duration
+    }
+
 def check_connectivity():
     """Check internet connectivity by testing multiple well-known websites."""
     websites = [
@@ -51,24 +73,26 @@ def check_connectivity():
         'checks': []
     }
     
-    for url in websites:
-        try:
-            start_time = time.time()
-            response = urllib.request.urlopen(url, timeout=5)
-            response_time = time.time() - start_time
-            status = 'SUCCESS' if response.getcode() == 200 else f'HTTP_{response.getcode()}'
-        except urllib.error.URLError as e:
-            status = f'FAILED: {str(e)}'
-            response_time = None
-        except Exception as e:
-            status = f'FAILED: {str(e)}'
-            response_time = None
+    # Use ThreadPoolExecutor to check all websites in parallel
+    with ThreadPoolExecutor(max_workers=len(websites)) as executor:
+        future_to_url = {executor.submit(check_single_site, url): url for url in websites}
         
-        results['checks'].append({
-            'url': url,
-            'status': status,
-            'response_time': response_time
-        })
+        for future in future_to_url:
+            try:
+                check_result = future.result()
+                results['checks'].append(check_result)
+            except Exception as e:
+                # Handle any unexpected errors from the thread
+                url = future_to_url[future]
+                results['checks'].append({
+                    'url': url,
+                    'status': f'FAILED: {str(e)}',
+                    'duration': 0.0
+                })
+    
+    # Sort results by original URL order to maintain consistency
+    url_order = {url: i for i, url in enumerate(websites)}
+    results['checks'].sort(key=lambda x: url_order[x['url']])
     
     return results
 
@@ -85,10 +109,8 @@ def log_results(results, log_file=None):
         f.write(f"WiFi: {results['wifi_network']} - Internet: {success_count}/{total_count} sites accessible\n")
         
         for check in results['checks']:
-            status_info = f"{check['status']}"
-            if check['response_time']:
-                status_info += f" ({check['response_time']:.2f}s)"
-            f.write(f"  {results['timestamp']} - {check['url']}: {status_info}\n")
+            duration_str = f"({check['duration']:.2f}s)"
+            f.write(f"  {duration_str} - {check['url']}: {check['status']}\n")
         f.write("\n")
 
 if __name__ == "__main__":
