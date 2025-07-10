@@ -106,6 +106,46 @@ class TestFindPastDayLogFiles:
         result = _find_past_day_log_files(git_output, hostname, today_file)
         
         assert result == []
+    
+    def test_find_past_day_log_files_various_git_status_formats(self):
+        """Test parsing different git status output formats."""
+        git_output = " M logs/test-hostname/connectivity_log_20250708.txt\n?? logs/test-hostname/connectivity_log_20250707.txt\nA  logs/test-hostname/connectivity_log_20250706.txt"
+        hostname = "test-hostname"
+        today_file = "logs/test-hostname/connectivity_log_20250709.txt"
+        
+        result = _find_past_day_log_files(git_output, hostname, today_file)
+        
+        expected = [
+            "logs/test-hostname/connectivity_log_20250708.txt",
+            "logs/test-hostname/connectivity_log_20250707.txt",
+            "logs/test-hostname/connectivity_log_20250706.txt"
+        ]
+        assert result == expected
+    
+    def test_find_past_day_log_files_malformed_git_status_line(self):
+        """Test handling of malformed git status lines."""
+        git_output = "M\n M logs/test-hostname/connectivity_log_20250708.txt\nInvalidLine"
+        hostname = "test-hostname"
+        today_file = "logs/test-hostname/connectivity_log_20250709.txt"
+        
+        result = _find_past_day_log_files(git_output, hostname, today_file)
+        
+        # Should only pick up the valid line (skipping malformed ones)
+        assert result == ["logs/test-hostname/connectivity_log_20250708.txt"]
+    
+    def test_find_past_day_log_files_file_with_spaces(self):
+        """Test handling of files with spaces in git status (edge case)."""
+        git_output = " M logs/test-hostname/connectivity_log_20250708.txt\n?? logs/test-hostname/connectivity_log_20250707.txt"
+        hostname = "test-hostname"
+        today_file = "logs/test-hostname/connectivity_log_20250709.txt"
+        
+        result = _find_past_day_log_files(git_output, hostname, today_file)
+        
+        expected = [
+            "logs/test-hostname/connectivity_log_20250708.txt",
+            "logs/test-hostname/connectivity_log_20250707.txt"
+        ]
+        assert result == expected
 
 
 class TestAddFilesToGit:

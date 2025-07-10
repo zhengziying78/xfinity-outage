@@ -24,7 +24,11 @@ def _find_past_day_log_files(git_status_output, hostname, today_file):
     for line in git_status_output.split('\n'):
         if line.strip():
             # Parse git status output (format: " M filename" or "?? filename")
-            file_path = line[3:].strip()
+            # Split on whitespace and take the last part as the filename
+            parts = line.split()
+            if len(parts) < 2:
+                continue
+            file_path = parts[-1]
             
             # Only process connectivity log files, not today's file
             if (file_path.startswith(f'logs/{hostname}/connectivity_log_') and 
