@@ -6,7 +6,7 @@ A Python script that monitors internet connectivity by testing access to popular
 
 - Tests connectivity to multiple websites every minute
 - Runs automatically in background, even when laptop is closed
-- Generates visual connectivity plots with success/failure rates over time
+- Creates bar charts from log data to show when internet was working vs broken
 
 ## Usage
 
@@ -21,9 +21,9 @@ All connectivity results are logged to files organized by date and hostname (e.g
 
 You can view the log files directly on GitHub: [all logs](https://github.com/zhengziying78/xfinity-outage/tree/main/logs) or [logs from specific hostname](https://github.com/zhengziying78/xfinity-outage/tree/main/logs/Ziyings-MacBook-Pro.local).
 
-### Connectivity Plotting
+### Plotting Charts
 
-Generate visual charts of your connectivity data:
+Make bar charts from your log data:
 
 ```bash
 # Generate plot with default settings (72 hours, 15-minute intervals)
@@ -39,12 +39,12 @@ python3 src/plot_outage_graph.py --hostname other-machine --wifi-network "MyWiFi
 python3 src/plot_outage_graph.py --output-dir ~/Documents --output my_plot.png
 ```
 
-**Plot Features:**
-- **Stacked bar chart** showing success (green) and failure (orange) rates
-- **Colorblind-friendly** color scheme
-- **Automatic file naming** with timestamp and parameters
-- **Non-blocking display** - saves PNG and opens automatically
-- **Midnight-aligned** x-axis labels for consistent time references
+**What you get:**
+- Green bars for when internet worked, orange bars for when it didn't
+- Colors that work for colorblind people
+- Saves PNG files with timestamps in filename
+- Opens the chart automatically when done
+- Time labels align to midnight (00:00, 06:00, 12:00, etc.)
 
 For detailed setup instructions and configuration options, see [`setup/README.md`](setup/README.md).
 
