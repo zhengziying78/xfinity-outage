@@ -86,7 +86,7 @@ def parse_log_files(logs_dir: str, hostname: str, wifi_filter: str = "GoTitansFC
     return data
 
 
-def aggregate_by_interval(data: List[Tuple[datetime.datetime, float]], interval_minutes: int = 30) -> List[Tuple[datetime.datetime, float]]:
+def aggregate_by_interval(data: List[Tuple[datetime.datetime, float]], interval_minutes: int = 15) -> List[Tuple[datetime.datetime, float]]:
     """Aggregate data into specified minute intervals."""
     if not data:
         return []
@@ -120,7 +120,7 @@ def aggregate_by_interval(data: List[Tuple[datetime.datetime, float]], interval_
     return aggregated_data
 
 
-def plot_success_rates(data: List[Tuple[datetime.datetime, float]], hostname: str, wifi_network: str, interval_minutes: int = 30, output_file: str = None):
+def plot_success_rates(data: List[Tuple[datetime.datetime, float]], hostname: str, wifi_network: str, interval_minutes: int = 15, output_file: str = None):
     """Plot success rates as a dot line graph."""
     if not data:
         print("No data to plot")
@@ -129,24 +129,37 @@ def plot_success_rates(data: List[Tuple[datetime.datetime, float]], hostname: st
     # Extract timestamps and success rates
     timestamps = [item[0] for item in data]
     success_rates = [item[1] * 100 for item in data]  # Convert to percentage
+    failure_rates = [100 - rate for rate in success_rates]  # Calculate failure percentage
     
     # Create the plot
     plt.figure(figsize=(12, 6))
     
-    # Plot dots
-    plt.plot(timestamps, success_rates, 'o-', markersize=6, linewidth=1, alpha=0.7)
+    # Calculate bar width based on interval
+    bar_width = datetime.timedelta(minutes=interval_minutes * 0.8)  # 80% of interval for spacing
+    
+    # Create stacked bar chart
+    # Bottom bars (failure) in orange-red (colorblind friendly)
+    plt.bar(timestamps, failure_rates, width=bar_width, color='#FF6B35', alpha=0.8, 
+           edgecolor='black', linewidth=0.5, label='Failure')
+    # Top bars (success) in light green with tiny blue tone (colorblind friendly)
+    plt.bar(timestamps, success_rates, width=bar_width, color='#66D9A6', alpha=0.8,
+           bottom=failure_rates, edgecolor='black', linewidth=0.5, label='Success')
     
     # Set labels and title
-    plt.title(f'Internet Connectivity Success Rate - {hostname} ({wifi_network})\n{interval_minutes}-minute intervals')
-    plt.xlabel('Time')
-    plt.ylabel('Success Rate (%)')
+    plt.title(f'Internet Connectivity Success/Failure Rate - {hostname} ({wifi_network})\n{interval_minutes}-minute intervals')
+    plt.xlabel('Time', labelpad=20)  # Add more space above "Time" label
+    plt.ylabel('Rate (%)')
+    
+    # Add legend at the bottom, with more space below "Time" label
+    plt.legend(loc='upper center', bbox_to_anchor=(0.5, -0.35), ncol=2)
     
     # Set y-axis to 0-100%
     plt.ylim(0, 105)
     
-    # Format x-axis
+    # Format x-axis with labels aligned to midnight
     plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('%m-%d %H:%M'))
-    plt.gca().xaxis.set_major_locator(mdates.HourLocator(interval=6))
+    # Set locator to align with midnight (byhour=0 means starting at midnight)
+    plt.gca().xaxis.set_major_locator(mdates.HourLocator(byhour=range(0, 24, 6)))
     plt.xticks(rotation=45)
     
     # Add grid
@@ -195,8 +208,8 @@ def main():
                        help='WiFi network to filter by (default: GoTitansFC)')
     parser.add_argument('--time-range', type=int, default=72,
                        help='Time range in hours to plot (default: 72)')
-    parser.add_argument('--interval', type=int, default=30,
-                       help='Aggregation interval in minutes (default: 30)')
+    parser.add_argument('--interval', type=int, default=15,
+                       help='Aggregation interval in minutes (default: 15)')
     parser.add_argument('--output-dir', default=os.path.expanduser('~/Desktop'),
                        help='Output directory for PNG files (default: ~/Desktop)')
     parser.add_argument('--output', help='Specific output file path (overrides --output-dir)')
