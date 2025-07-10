@@ -6,8 +6,11 @@ A Python script that monitors internet connectivity by testing access to popular
 
 - Tests connectivity to multiple websites every minute
 - Runs automatically in background, even when laptop is closed
+- Generates visual connectivity plots with success/failure rates over time
 
 ## Usage
+
+### Connectivity Monitoring
 
 You can run the connectivity checker in two ways:
 
@@ -17,6 +20,31 @@ You can run the connectivity checker in two ways:
 All connectivity results are logged to files organized by date and hostname (e.g., `logs/hostname/connectivity_log_20250709.txt`) and committed to the repository. Each log entry includes timestamp, WiFi network name, and connectivity status for each tested website. 
 
 You can view the log files directly on GitHub: [all logs](https://github.com/zhengziying78/xfinity-outage/tree/main/logs) or [logs from specific hostname](https://github.com/zhengziying78/xfinity-outage/tree/main/logs/Ziyings-MacBook-Pro.local).
+
+### Connectivity Plotting
+
+Generate visual charts of your connectivity data:
+
+```bash
+# Generate plot with default settings (72 hours, 15-minute intervals)
+python3 src/plot_outage_graph.py
+
+# Customize time range and interval
+python3 src/plot_outage_graph.py --time-range 24 --interval 30
+
+# Specify different hostname or WiFi network
+python3 src/plot_outage_graph.py --hostname other-machine --wifi-network "MyWiFi"
+
+# Save to specific location
+python3 src/plot_outage_graph.py --output-dir ~/Documents --output my_plot.png
+```
+
+**Plot Features:**
+- **Stacked bar chart** showing success (green) and failure (orange) rates
+- **Colorblind-friendly** color scheme
+- **Automatic file naming** with timestamp and parameters
+- **Non-blocking display** - saves PNG and opens automatically
+- **Midnight-aligned** x-axis labels for consistent time references
 
 For detailed setup instructions and configuration options, see [`setup/README.md`](setup/README.md).
 
@@ -30,6 +58,7 @@ For detailed setup instructions and configuration options, see [`setup/README.md
 
 - Python 3 (uses built-in `urllib` and `concurrent.futures` modules, no external dependencies)
 - macOS with launchctl for scheduling
+- For plotting: `matplotlib` (install with `pip install matplotlib`)
 
 ## Testing
 
