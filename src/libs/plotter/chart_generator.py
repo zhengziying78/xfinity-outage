@@ -44,10 +44,25 @@ def plot_success_rates(data: List[Tuple[datetime.datetime, float]], hostname: st
     # Set y-axis to 0-100%
     plt.ylim(0, 105)
     
-    # Format x-axis with labels aligned to midnight, at least every 3 hours
-    plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('%m-%d %H:%M'))
-    # Set locator to align with midnight (every 3 hours: 00:00, 03:00, 06:00, 09:00, etc.)
-    plt.gca().xaxis.set_major_locator(mdates.HourLocator(byhour=range(0, 24, 3)))
+    # Custom x-axis formatting: show date for 00:00, leftmost, rightmost labels; only time for others
+    ax = plt.gca()
+    ax.xaxis.set_major_locator(mdates.HourLocator(byhour=range(0, 24, 3)))
+    
+    # Custom formatter function
+    def custom_date_formatter(x, pos):
+        date = mdates.num2date(x)
+        # Get all tick locations to determine leftmost and rightmost
+        tick_locs = ax.get_xticks()
+        is_leftmost = (pos == 0)
+        is_rightmost = (pos == len(tick_locs) - 1)
+        is_midnight = (date.hour == 0 and date.minute == 0)
+        
+        if is_leftmost or is_rightmost or is_midnight:
+            return date.strftime('%m/%d %H:%M')
+        else:
+            return date.strftime('%H:%M')
+    
+    ax.xaxis.set_major_formatter(plt.FuncFormatter(custom_date_formatter))
     plt.xticks(rotation=45)
     
     # Add grid
