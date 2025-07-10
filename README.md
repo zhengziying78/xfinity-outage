@@ -4,12 +4,17 @@ A Python script that monitors internet connectivity by testing access to popular
 
 ## Features
 
-- Tests connectivity to multiple websites in parallel
+- Tests connectivity to multiple websites every minute
 - Runs automatically in background, even when laptop is closed
 
 ## Usage
 
-For manual testing and local log viewing, see [`setup/README.md`](setup/README.md).
+You can run the connectivity checker in two ways:
+
+- **Manual run**: Execute the script directly to test connectivity immediately
+- **Scheduled run**: Configure it to run automatically at regular intervals
+
+All connectivity results are logged to local files organized by date and hostname (e.g., `logs/hostname/connectivity_log_20250709.txt`). Each log entry includes timestamp, WiFi network name, and connectivity status for each tested website. For detailed setup instructions and configuration options, see [`setup/README.md`](setup/README.md).
 
 ## Setup & Configuration
 
