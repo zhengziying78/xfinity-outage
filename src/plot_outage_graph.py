@@ -6,6 +6,7 @@ This script generates a dot line graph showing success rates over time
 for connectivity logs from the current machine's hostname.
 """
 
+import argparse
 import datetime
 import glob
 import os
@@ -15,7 +16,6 @@ import sys
 from typing import List, Tuple
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
-import pandas as pd
 
 
 def get_hostname() -> str:
@@ -23,7 +23,7 @@ def get_hostname() -> str:
     return socket.gethostname()
 
 
-def parse_log_files(logs_dir: str, hostname: str, wifi_filter: str = "GoTitansFC") -> List[Tuple[datetime.datetime, float]]:
+def parse_log_files(logs_dir: str, hostname: str, wifi_filter: str = "GoTitansFC", time_range_hours: int = 72) -> List[Tuple[datetime.datetime, float]]:
     """Parse log files and extract success rate data for specified WiFi network."""
     data = []
     
@@ -75,34 +75,32 @@ def parse_log_files(logs_dir: str, hostname: str, wifi_filter: str = "GoTitansFC
     # Sort by timestamp
     data.sort(key=lambda x: x[0])
     
-    # Filter to last 72 hours if we have more data
+    # Filter to specified time range if we have more data
     if data:
         latest_time = data[-1][0]
-        cutoff_time = latest_time - datetime.timedelta(hours=72)
+        cutoff_time = latest_time - datetime.timedelta(hours=time_range_hours)
         data = [(ts, rate) for ts, rate in data if ts >= cutoff_time]
     
     print(f"Found {len(data)} data points for WiFi network '{wifi_filter}'")
     return data
 
 
-def aggregate_by_half_hour(data: List[Tuple[datetime.datetime, float]]) -> List[Tuple[datetime.datetime, float]]:
-    """Aggregate data into 30-minute intervals."""
+def aggregate_by_interval(data: List[Tuple[datetime.datetime, float]], interval_minutes: int = 30) -> List[Tuple[datetime.datetime, float]]:
+    """Aggregate data into specified minute intervals."""
     if not data:
         return []
     
-    # Group data by 30-minute intervals
+    # Group data by specified intervals
     intervals = {}
     
     for timestamp, success_rate in data:
-        # Calculate the interval boundary (round down to nearest 30-minute mark)
-        minute = timestamp.minute
-        if minute < 30:
-            interval_start = timestamp.replace(minute=0, second=0, microsecond=0)
-        else:
-            interval_start = timestamp.replace(minute=30, second=0, microsecond=0)
+        # Calculate the interval boundary (round down to nearest interval mark)
+        minutes_since_hour = timestamp.minute
+        interval_start_minute = (minutes_since_hour // interval_minutes) * interval_minutes
+        interval_start = timestamp.replace(minute=interval_start_minute, second=0, microsecond=0)
         
-        # The interval end is 30 minutes later
-        interval_end = interval_start + datetime.timedelta(minutes=30)
+        # The interval end is interval_minutes later
+        interval_end = interval_start + datetime.timedelta(minutes=interval_minutes)
         
         # Use interval_end as the key (the dot position)
         if interval_end not in intervals:
@@ -117,11 +115,11 @@ def aggregate_by_half_hour(data: List[Tuple[datetime.datetime, float]]) -> List[
         avg_success_rate = sum(success_rates) / len(success_rates)
         aggregated_data.append((interval_end, avg_success_rate))
     
-    print(f"Aggregated into {len(aggregated_data)} 30-minute intervals")
+    print(f"Aggregated into {len(aggregated_data)} {interval_minutes}-minute intervals")
     return aggregated_data
 
 
-def plot_success_rates(data: List[Tuple[datetime.datetime, float]], hostname: str, wifi_network: str, output_file: str = None):
+def plot_success_rates(data: List[Tuple[datetime.datetime, float]], hostname: str, wifi_network: str, interval_minutes: int = 30, output_file: str = None):
     """Plot success rates as a dot line graph."""
     if not data:
         print("No data to plot")
@@ -138,7 +136,7 @@ def plot_success_rates(data: List[Tuple[datetime.datetime, float]], hostname: st
     plt.plot(timestamps, success_rates, 'o-', markersize=6, linewidth=1, alpha=0.7)
     
     # Set labels and title
-    plt.title(f'Internet Connectivity Success Rate - {hostname} ({wifi_network})')
+    plt.title(f'Internet Connectivity Success Rate - {hostname} ({wifi_network})\n{interval_minutes}-minute intervals')
     plt.xlabel('Time')
     plt.ylabel('Success Rate (%)')
     
@@ -166,18 +164,32 @@ def plot_success_rates(data: List[Tuple[datetime.datetime, float]], hostname: st
 
 def main():
     """Main function."""
+    # Parse command line arguments
+    parser = argparse.ArgumentParser(description='Generate connectivity success rate plots')
+    parser.add_argument('--hostname', default=get_hostname(), 
+                       help='Hostname to plot data for (default: current machine)')
+    parser.add_argument('--wifi-network', default='GoTitansFC',
+                       help='WiFi network to filter by (default: GoTitansFC)')
+    parser.add_argument('--time-range', type=int, default=72,
+                       help='Time range in hours to plot (default: 72)')
+    parser.add_argument('--interval', type=int, default=30,
+                       help='Aggregation interval in minutes (default: 30)')
+    parser.add_argument('--output', help='Output file path (default: show plot)')
+    
+    args = parser.parse_args()
+    
     # Check for required packages
     try:
         import matplotlib.pyplot as plt
-        import pandas as pd
     except ImportError as e:
         print(f"Error: Required packages not installed. Please install: {e}")
-        print("Try: pip install matplotlib pandas")
+        print("Try: pip install matplotlib")
         sys.exit(1)
     
-    # Get current hostname
-    hostname = get_hostname()
-    print(f"Current hostname: {hostname}")
+    print(f"Hostname: {args.hostname}")
+    print(f"WiFi network filter: {args.wifi_network}")
+    print(f"Time range: {args.time_range} hours")
+    print(f"Aggregation interval: {args.interval} minutes")
     
     # Set up paths
     script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -188,18 +200,17 @@ def main():
         sys.exit(1)
     
     # Parse log files
-    wifi_filter = "GoTitansFC"
-    data = parse_log_files(logs_dir, hostname, wifi_filter)
+    data = parse_log_files(logs_dir, args.hostname, args.wifi_network, args.time_range)
     
     if not data:
         print("No data found to plot")
         sys.exit(1)
     
-    # Aggregate data by 30-minute intervals
-    aggregated_data = aggregate_by_half_hour(data)
+    # Aggregate data by specified intervals
+    aggregated_data = aggregate_by_interval(data, args.interval)
     
     # Plot the data
-    plot_success_rates(aggregated_data, hostname, wifi_filter)
+    plot_success_rates(aggregated_data, args.hostname, args.wifi_network, args.interval, args.output)
 
 
 if __name__ == '__main__':
