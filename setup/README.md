@@ -9,7 +9,7 @@ Complete setup guide for the Internet Connectivity Checker.
 For testing or one-time checks:
 
 ```bash
-python3 connectivity_checker.py
+python3 src/connectivity_checker.py
 ```
 
 Output example:
@@ -41,11 +41,11 @@ Runs continuously, even during sleep/wake cycles:
 ```bash
 # First, customize the plist file with your paths and username
 # Replace placeholders with actual values (run from project directory):
-sed -i '' "s|/PATH/TO/PROJECT|$(pwd)|g" com.connectivity.checker.system.plist
-sed -i '' "s|YOUR_USERNAME|$(whoami)|g" com.connectivity.checker.system.plist
+sed -i '' "s|/PATH/TO/PROJECT|$(pwd)|g" setup/com.connectivity.checker.system.plist
+sed -i '' "s|YOUR_USERNAME|$(whoami)|g" setup/com.connectivity.checker.system.plist
 
 # Install (requires sudo)
-sudo cp com.connectivity.checker.system.plist /Library/LaunchDaemons/
+sudo cp setup/com.connectivity.checker.system.plist /Library/LaunchDaemons/
 sudo chown root:wheel /Library/LaunchDaemons/com.connectivity.checker.system.plist
 sudo chmod 644 /Library/LaunchDaemons/com.connectivity.checker.system.plist
 sudo launchctl load /Library/LaunchDaemons/com.connectivity.checker.system.plist
@@ -60,7 +60,7 @@ After modifying the plist file, reload the service:
 
 ```bash
 sudo launchctl unload /Library/LaunchDaemons/com.connectivity.checker.system.plist
-sudo cp com.connectivity.checker.system.plist /Library/LaunchDaemons/
+sudo cp setup/com.connectivity.checker.system.plist /Library/LaunchDaemons/
 sudo launchctl load /Library/LaunchDaemons/com.connectivity.checker.system.plist
 ```
 
@@ -71,11 +71,11 @@ To prevent log files from growing indefinitely, configure automatic log rotation
 ```bash
 # First, customize the newsyslog configuration file
 # Replace placeholders with actual values (run from project directory):
-sed -i '' "s|/PATH/TO/PROJECT|$(pwd)|g" connectivity_checker.newsyslog.conf
-sed -i '' "s|YOUR_USERNAME|$(whoami)|g" connectivity_checker.newsyslog.conf
+sed -i '' "s|/PATH/TO/PROJECT|$(pwd)|g" setup/connectivity_checker.newsyslog.conf
+sed -i '' "s|YOUR_USERNAME|$(whoami)|g" setup/connectivity_checker.newsyslog.conf
 
 # Install the newsyslog configuration
-sudo cp connectivity_checker.newsyslog.conf /etc/newsyslog.d/
+sudo cp setup/connectivity_checker.newsyslog.conf /etc/newsyslog.d/
 ```
 
 This will automatically rotate the `connectivity_checker.log` and `connectivity_checker.error` files when they exceed 1MB, keeping 7 rotated files.

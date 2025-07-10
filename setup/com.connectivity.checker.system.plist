@@ -7,7 +7,7 @@
     <key>ProgramArguments</key>
     <array>
         <string>/usr/bin/python3</string>
-        <string>/PATH/TO/PROJECT/connectivity_checker.py</string>
+        <string>/PATH/TO/PROJECT/src/connectivity_checker.py</string>
     </array>
     <key>StartInterval</key>
     <integer>60</integer>
