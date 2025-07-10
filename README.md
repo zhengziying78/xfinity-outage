@@ -39,12 +39,9 @@ python3 src/plot_outage_graph.py --hostname other-machine --wifi-network "MyWiFi
 python3 src/plot_outage_graph.py --output-dir ~/Documents --output my_plot.png
 ```
 
-**What you get:**
-- Green bars for when internet worked, orange bars for when it didn't
-- Colors that work for colorblind people
-- Saves PNG files with timestamps in filename
-- Opens the chart automatically when done
-- Time labels align to midnight (00:00, 06:00, 12:00, etc.)
+**Example**
+
+<img width="3553" height="1634" alt="image" src="https://github.com/user-attachments/assets/64d3ec7f-cf87-4a3a-86a4-f6f47fbd046e" />
 
 For detailed setup instructions and configuration options, see [`setup/README.md`](setup/README.md).
 
