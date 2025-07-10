@@ -30,3 +30,11 @@ def log_to_file(results, log_file=None):
         f.write(f"Hostname: {hostname}\n\n")
 
 
+def print_summary(results):
+    """Print connectivity summary to console."""
+    success_count = sum(1 for check in results['checks'] if check['status'] == 'SUCCESS')
+    total_count = len(results['checks'])
+    status = "success" if success_count == total_count else "failed"
+    print(f"{results['timestamp']} - WiFi: {results['wifi_network']} - {status}, {success_count}/{total_count} sites accessible")
+
+
