@@ -12,6 +12,7 @@ import glob
 import os
 import re
 import socket
+import subprocess
 import sys
 from typing import List, Tuple
 import matplotlib.pyplot as plt
@@ -123,7 +124,7 @@ def plot_success_rates(data: List[Tuple[datetime.datetime, float]], hostname: st
     """Plot success rates as a dot line graph."""
     if not data:
         print("No data to plot")
-        return
+        return None
     
     # Extract timestamps and success rates
     timestamps = [item[0] for item in data]
@@ -154,12 +155,34 @@ def plot_success_rates(data: List[Tuple[datetime.datetime, float]], hostname: st
     # Tight layout
     plt.tight_layout()
     
-    # Save or show
+    # Save the plot
     if output_file:
         plt.savefig(output_file, dpi=300, bbox_inches='tight')
         print(f"Plot saved to: {output_file}")
+        plt.close()  # Close the figure to free memory
+        return output_file
     else:
         plt.show()
+        return None
+
+
+def open_file_non_blocking(file_path: str):
+    """Open a file in the default application in a non-blocking way."""
+    try:
+        if sys.platform == 'darwin':  # macOS
+            subprocess.Popen(['open', file_path])
+        elif sys.platform == 'linux':  # Linux
+            subprocess.Popen(['xdg-open', file_path])
+        elif sys.platform == 'win32':  # Windows
+            subprocess.Popen(['start', file_path], shell=True)
+        else:
+            print(f"Unsupported platform: {sys.platform}. Please open the file manually: {file_path}")
+            return False
+        return True
+    except Exception as e:
+        print(f"Could not open file automatically: {e}")
+        print(f"Please open manually: {file_path}")
+        return False
 
 
 def main():
@@ -174,13 +197,15 @@ def main():
                        help='Time range in hours to plot (default: 72)')
     parser.add_argument('--interval', type=int, default=30,
                        help='Aggregation interval in minutes (default: 30)')
-    parser.add_argument('--output', help='Output file path (default: show plot)')
+    parser.add_argument('--output-dir', default=os.path.expanduser('~/Desktop'),
+                       help='Output directory for PNG files (default: ~/Desktop)')
+    parser.add_argument('--output', help='Specific output file path (overrides --output-dir)')
     
     args = parser.parse_args()
     
     # Check for required packages
     try:
-        import matplotlib.pyplot as plt
+        import matplotlib.pyplot
     except ImportError as e:
         print(f"Error: Required packages not installed. Please install: {e}")
         print("Try: pip install matplotlib")
@@ -190,6 +215,7 @@ def main():
     print(f"WiFi network filter: {args.wifi_network}")
     print(f"Time range: {args.time_range} hours")
     print(f"Aggregation interval: {args.interval} minutes")
+    print(f"Output directory: {args.output_dir}")
     
     # Set up paths
     script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -209,8 +235,38 @@ def main():
     # Aggregate data by specified intervals
     aggregated_data = aggregate_by_interval(data, args.interval)
     
+    # Generate output filename if not specified
+    if args.output:
+        output_file = args.output
+    else:
+        # Create automatic filename
+        timestamp = datetime.datetime.now().strftime('%Y%m%d_%H%M%S')
+        filename = f"connectivity_plot_{args.hostname}_{args.wifi_network}_{args.time_range}h_{args.interval}m_{timestamp}.png"
+        output_file = os.path.join(args.output_dir, filename)
+        
+        # Ensure output directory exists
+        os.makedirs(args.output_dir, exist_ok=True)
+    
     # Plot the data
-    plot_success_rates(aggregated_data, args.hostname, args.wifi_network, args.interval, args.output)
+    saved_file = plot_success_rates(aggregated_data, args.hostname, args.wifi_network, args.interval, output_file)
+    
+    # Open the file in a non-blocking way
+    if saved_file and os.path.exists(saved_file):
+        try:
+            # Use subprocess to open the file non-blocking
+            if sys.platform == 'darwin':  # macOS
+                subprocess.Popen(['open', saved_file])
+            elif sys.platform == 'linux':  # Linux
+                subprocess.Popen(['xdg-open', saved_file])
+            elif sys.platform == 'win32':  # Windows
+                subprocess.Popen(['start', saved_file], shell=True)
+            else:
+                print(f"Unsupported platform: {sys.platform}. Please open the file manually: {saved_file}")
+            
+            print(f"Opening plot file: {saved_file}")
+        except Exception as e:
+            print(f"Could not open file automatically: {e}")
+            print(f"Please open manually: {saved_file}")
 
 
 if __name__ == '__main__':
