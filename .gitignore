@@ -23,3 +23,11 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+# Coverage reports
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
