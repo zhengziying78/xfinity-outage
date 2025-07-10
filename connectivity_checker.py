@@ -2,6 +2,7 @@
 import os
 from src.site_checker import check_connectivity
 from src.logging import log_to_file
+from src.git import push_logs_to_git
 
 
 if __name__ == "__main__":
@@ -12,4 +13,6 @@ if __name__ == "__main__":
     status = "success" if success_count == total_count else "failed"
     print(f"{results['timestamp']} - WiFi: {results['wifi_network']} - {status}, {success_count}/{total_count} sites accessible")
     
+    # Push log changes to remote repository
+    push_logs_to_git()
     
