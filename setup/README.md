@@ -143,9 +143,40 @@ launchctl list | grep connectivity
 ls /Library/LaunchDaemons/ | grep connectivity
 ls /etc/newsyslog.d/ | grep connectivity
 
-# Check for any remaining processes
-ps aux | grep connectivity_checker
+# Check for any remaining processes (exclude the grep command itself)
+ps aux | grep connectivity_checker | grep -v grep
 ```
+
+### Kill Remaining Processes (If Any)
+
+If you find any running connectivity_checker processes, kill them:
+
+```bash
+# Find running connectivity_checker processes (excluding grep)
+PIDS=$(ps aux | grep connectivity_checker | grep -v grep | awk '{print $2}')
+
+# Kill the processes if any are found
+if [ ! -z "$PIDS" ]; then
+    echo "Found running processes: $PIDS"
+    echo "Killing processes..."
+    kill $PIDS
+    
+    # If processes don't terminate gracefully, force kill them
+    sleep 2
+    REMAINING=$(ps aux | grep connectivity_checker | grep -v grep | awk '{print $2}')
+    if [ ! -z "$REMAINING" ]; then
+        echo "Force killing remaining processes: $REMAINING"
+        kill -9 $REMAINING
+    fi
+else
+    echo "No connectivity_checker processes found running"
+fi
+
+# Verify all processes are gone
+ps aux | grep connectivity_checker | grep -v grep
+```
+
+**Note**: The `grep connectivity_checker` command itself will appear in the process list, which is normal. The above commands filter out the grep process to show only actual connectivity_checker instances.
 
 After running these commands, the connectivity checker will be completely removed from your system. You can safely delete the project directory if desired.
 
