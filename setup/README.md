@@ -93,3 +93,59 @@ This will automatically rotate the `connectivity_checker.log` and `connectivity_
 - Check newsyslog configuration: `sudo cat /etc/newsyslog.d/connectivity_checker.newsyslog.conf`
 - Test rotation: `sudo newsyslog -v`
 
+
+## Cleanup and Removal
+
+To completely remove the connectivity checker and all its components:
+
+### Remove LaunchDaemon Service
+
+```bash
+# Stop and unload the service
+sudo launchctl unload /Library/LaunchDaemons/com.connectivity.checker.system.plist
+
+# Remove the plist file
+sudo rm /Library/LaunchDaemons/com.connectivity.checker.system.plist
+
+# Verify removal
+launchctl list | grep connectivity  # Should return nothing
+```
+
+### Remove Log Rotation Configuration
+
+```bash
+# Remove the newsyslog configuration
+sudo rm /etc/newsyslog.d/connectivity_checker.newsyslog.conf
+
+# Verify removal
+ls /etc/newsyslog.d/ | grep connectivity  # Should return nothing
+```
+
+### Remove Log Files (Optional)
+
+```bash
+# Remove runtime logs (these are not tracked in git)
+rm -f logs/connectivity_checker.log*
+rm -f logs/connectivity_checker.error*
+
+# Note: Daily connectivity logs in logs/{hostname}/ are tracked in git
+# Remove them only if you want to delete historical data:
+# rm -rf logs/{hostname}/
+```
+
+### Verify Complete Removal
+
+```bash
+# Check that no launchctl services are running
+launchctl list | grep connectivity
+
+# Check that no configuration files remain
+ls /Library/LaunchDaemons/ | grep connectivity
+ls /etc/newsyslog.d/ | grep connectivity
+
+# Check for any remaining processes
+ps aux | grep connectivity_checker
+```
+
+After running these commands, the connectivity checker will be completely removed from your system. You can safely delete the project directory if desired.
+
