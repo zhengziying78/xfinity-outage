@@ -3,20 +3,20 @@
 <plist version="1.0">
 <dict>
     <key>Label</key>
-    <string>com.connectivity.checker.system</string>
+    <string>com.zhengziying.xfinity-outage.checker.system</string>
     <key>ProgramArguments</key>
     <array>
         <string>/usr/bin/python3</string>
-        <string>/PATH/TO/PROJECT/src/connectivity_checker.py</string>
+        <string>/PATH/TO/PROJECT/src/xfinity_outage_checker.py</string>
     </array>
     <key>StartInterval</key>
     <integer>60</integer>
     <key>RunAtLoad</key>
     <true/>
     <key>StandardOutPath</key>
-    <string>/PATH/TO/PROJECT/logs/connectivity_checker.log</string>
+    <string>/PATH/TO/PROJECT/logs/xfinity_outage_checker.log</string>
     <key>StandardErrorPath</key>
-    <string>/PATH/TO/PROJECT/logs/connectivity_checker.error</string>
+    <string>/PATH/TO/PROJECT/logs/xfinity_outage_checker.error</string>
     <key>WorkingDirectory</key>
     <string>/PATH/TO/PROJECT</string>
     <key>UserName</key>

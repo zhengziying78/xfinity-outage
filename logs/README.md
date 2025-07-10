@@ -8,8 +8,8 @@ Technical details about log organization and formats.
 logs/
 ├── {hostname}/
 │   └── connectivity_log_YYYYMMDD.txt  # Daily connectivity test results
-├── connectivity_checker.log           # Script stdout
-├── connectivity_checker.error         # Script stderr
+├── xfinity_outage_checker.log           # Script stdout
+├── xfinity_outage_checker.error         # Script stderr
 └── README.md
 ```
 
@@ -31,7 +31,7 @@ Hostname: Ziyings-MacBook-Pro.local
 ```
 
 ### Runtime Logs
-**Location**: `logs/connectivity_checker.log` and `logs/connectivity_checker.error`  
+**Location**: `logs/xfinity_outage_checker.log` and `logs/xfinity_outage_checker.error`  
 **Git Tracking**: No (ignored by .gitignore)  
 **Purpose**: Script execution output and error messages  
 **Rotation**: Automatic when files exceed 1MB (keeps 7 rotated files)
@@ -40,7 +40,7 @@ Hostname: Ziyings-MacBook-Pro.local
 
 For hostname `Ziyings-MacBook-Pro.local`:
 - `logs/Ziyings-MacBook-Pro.local/connectivity_log_20250709.txt` (committed to repository)
-- `logs/connectivity_checker.log` (local only)
-- `logs/connectivity_checker.error` (local only)
+- `logs/xfinity_outage_checker.log` (local only)
+- `logs/xfinity_outage_checker.error` (local only)
 
 
