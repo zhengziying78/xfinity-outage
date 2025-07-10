@@ -8,9 +8,11 @@
 connectivity_checker.log*
 connectivity_checker.error*
 
-# Ignore all log files in logs directory except README.md
-logs/*
+# Ignore runtime logs but include hostname directories and README.md
+logs/connectivity_checker.log*
+logs/connectivity_checker.error*
 !logs/README.md
+!logs/*/
 
 # Python
 __pycache__/
