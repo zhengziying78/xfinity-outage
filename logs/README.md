@@ -16,8 +16,8 @@ logs/
 ## Log Types
 
 ### Daily Connectivity Logs
-**Location**: `logs/{hostname}/connectivity_log_YYYYMMDD.txt`
-**Git Tracking**: Yes (committed to repository)
+**Location**: `logs/{hostname}/connectivity_log_YYYYMMDD.txt`  
+**Git Tracking**: Yes (committed to repository)  
 **Purpose**: Historical record of connectivity test results
 
 **Format**:
@@ -31,9 +31,9 @@ Hostname: Ziyings-MacBook-Pro.local
 ```
 
 ### Runtime Logs
-**Location**: `logs/connectivity_checker.log` and `logs/connectivity_checker.error`
-**Git Tracking**: No (ignored by .gitignore)
-**Purpose**: Script execution output and error messages
+**Location**: `logs/connectivity_checker.log` and `logs/connectivity_checker.error`  
+**Git Tracking**: No (ignored by .gitignore)  
+**Purpose**: Script execution output and error messages  
 **Rotation**: Automatic when files exceed 1MB (keeps 7 rotated files)
 
 ## Example Files
