@@ -17,7 +17,7 @@ Output example:
 2025-07-09 11:03:43 - WiFi: GoTitansFC - success, 4/4 sites accessible
 ```
 
-### Check Local Logs
+### Check Logs
 
 View detailed connectivity results:
 

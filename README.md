@@ -14,13 +14,17 @@ You can run the connectivity checker in two ways:
 - **Manual run**: Execute the script directly to test connectivity immediately
 - **Scheduled run**: Configure it to run automatically at regular intervals
 
-All connectivity results are logged to local files organized by date and hostname (e.g., `logs/hostname/connectivity_log_20250709.txt`). Each log entry includes timestamp, WiFi network name, and connectivity status for each tested website. For detailed setup instructions and configuration options, see [`setup/README.md`](setup/README.md).
+All connectivity results are logged to files organized by date and hostname (e.g., `logs/hostname/connectivity_log_20250709.txt`) and committed to the repository. Each log entry includes timestamp, WiFi network name, and connectivity status for each tested website. 
+
+You can view the log files directly on GitHub: [all logs](https://github.com/zhengziying78/xfinity-outage/tree/main/logs) or [logs from specific hostname](https://github.com/zhengziying78/xfinity-outage/tree/main/logs/Ziyings-MacBook-Pro.local).
+
+For detailed setup instructions and configuration options, see [`setup/README.md`](setup/README.md).
 
 ## Setup & Configuration
 
 📋 **Setup Guide**: [`setup/README.md`](setup/README.md) - Complete installation and configuration instructions
 
-📊 **Log Details**: [`logs/README.md`](logs/README.md) - Log organization and local file structure
+📊 **Log Details**: [`logs/README.md`](logs/README.md) - Log organization and file structure
 
 ## Requirements
 
