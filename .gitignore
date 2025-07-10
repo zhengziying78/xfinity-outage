@@ -5,12 +5,12 @@
 .vscode/
 
 # Always ignore stdout/stderr logs and their rotated versions (everywhere)
-connectivity_checker.log*
-connectivity_checker.error*
+xfinity_outage_checker.log*
+xfinity_outage_checker.error*
 
 # Ignore runtime logs but include hostname directories and README.md
-logs/connectivity_checker.log*
-logs/connectivity_checker.error*
+logs/xfinity_outage_checker.log*
+logs/xfinity_outage_checker.error*
 !logs/README.md
 !logs/*/
 
