@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import os
 from src.site_checker import check_connectivity
-from src.logging import log_to_file, send_to_logtail
+from src.logging import log_to_file
 
 
 if __name__ == "__main__":
@@ -12,7 +12,4 @@ if __name__ == "__main__":
     status = "success" if success_count == total_count else "failed"
     print(f"{results['timestamp']} - WiFi: {results['wifi_network']} - {status}, {success_count}/{total_count} sites accessible")
     
-    # Send to Logtail (set your source token here)
-    logtail_token = os.environ.get('LOGTAIL_TOKEN')  # Set via environment variable
-    send_to_logtail(results, logtail_token)
     

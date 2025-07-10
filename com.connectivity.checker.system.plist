@@ -21,10 +21,5 @@
     <string>/PATH/TO/PROJECT</string>
     <key>UserName</key>
     <string>YOUR_USERNAME</string>
-    <key>EnvironmentVariables</key>
-    <dict>
-        <key>LOGTAIL_TOKEN</key>
-        <string>fake_token_12345</string>
-    </dict>
 </dict>
 </plist>
