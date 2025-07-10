@@ -1,0 +1,2933 @@
+2025-07-10 00:00:11 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:01:16 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:02:21 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.24s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.42s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:03:25 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:04:30 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:05:35 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:06:40 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:07:44 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.13s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:08:49 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:09:54 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:10:59 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.50s) - https://google.com: SUCCESS
+  (0.43s) - https://apple.com: SUCCESS
+  (0.51s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:12:03 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.31s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.61s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:13:08 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.36s) - https://github.com: SUCCESS
+  (0.55s) - https://google.com: SUCCESS
+  (0.36s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:14:13 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:15:18 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.53s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:16:23 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:17:27 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.32s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.41s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:18:32 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.23s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:19:37 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.49s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:20:42 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.30s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:21:46 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.24s) - https://github.com: SUCCESS
+  (0.41s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:22:51 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.50s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:23:56 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:25:00 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:26:05 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.30s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:27:10 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:28:15 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.31s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.40s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:29:19 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:30:24 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.35s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.35s) - https://apple.com: SUCCESS
+  (0.55s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:31:29 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.29s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:32:34 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.23s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:33:38 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.32s) - https://github.com: SUCCESS
+  (0.42s) - https://google.com: SUCCESS
+  (0.34s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:34:43 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.34s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.35s) - https://apple.com: SUCCESS
+  (0.44s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:35:48 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.34s) - https://github.com: SUCCESS
+  (0.59s) - https://google.com: SUCCESS
+  (0.34s) - https://apple.com: SUCCESS
+  (0.42s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:36:54 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.32s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.40s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:37:58 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.13s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:39:03 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:40:08 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.56s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:41:13 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.72s) - https://google.com: SUCCESS
+  (0.57s) - https://apple.com: SUCCESS
+  (0.52s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:42:18 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.34s) - https://github.com: SUCCESS
+  (0.40s) - https://google.com: SUCCESS
+  (0.46s) - https://apple.com: SUCCESS
+  (0.44s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:43:23 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:44:27 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (5.04s) - https://github.com: FAILED: <urlopen error timed out>
+  (5.04s) - https://google.com: FAILED: <urlopen error timed out>
+  (5.04s) - https://apple.com: FAILED: <urlopen error timed out>
+  (20.05s) - https://reddit.com: FAILED: <urlopen error timed out>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:45:52 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.03s) - https://apple.com: FAILED: <urlopen error timed out>
+  (20.04s) - https://reddit.com: FAILED: <urlopen error timed out>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:47:16 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.04s) - https://apple.com: FAILED: <urlopen error timed out>
+  (10.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:48:30 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.17s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.17s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.04s) - https://apple.com: FAILED: <urlopen error timed out>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:49:45 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (4.50s) - https://apple.com: FAILED: <urlopen error [Errno 51] Network is unreachable>
+  (10.05s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:50:59 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.15s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.14s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.04s) - https://apple.com: FAILED: <urlopen error timed out>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:52:14 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.04s) - https://apple.com: FAILED: <urlopen error timed out>
+  (10.14s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:53:28 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.04s) - https://apple.com: FAILED: <urlopen error timed out>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:54:42 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.04s) - https://apple.com: FAILED: <urlopen error timed out>
+  (10.08s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:55:57 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.21s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.21s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.04s) - https://apple.com: FAILED: <urlopen error timed out>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:57:11 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.02s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.02s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:58:26 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.27s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.27s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.26s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.26s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 00:59:41 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.10s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.10s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.18s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.18s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:00:55 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:02:10 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.05s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (6.57s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.07s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:03:24 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.14s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.14s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:04:39 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.07s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.08s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:05:53 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.11s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.11s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:07:08 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.11s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.11s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:08:22 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:09:37 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.16s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.16s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:10:51 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.14s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.13s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:12:06 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:13:20 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.15s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.15s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:14:35 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.14s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.14s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:15:49 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:17:04 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:18:18 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.13s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.13s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.02s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.02s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:19:33 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.09s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.08s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:20:47 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:22:01 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.09s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.09s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:23:16 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.08s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.07s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:24:30 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.09s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.09s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:25:45 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.06s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:26:59 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:28:14 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.15s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.15s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:29:28 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:30:43 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.30s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.30s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:31:57 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.15s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.15s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:33:12 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:34:26 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.09s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.09s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:35:40 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:36:55 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:38:09 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.08s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.09s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:39:23 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.10s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.10s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:40:38 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.10s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.10s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:41:52 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:43:06 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.06s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:44:21 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.07s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.07s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:45:35 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.06s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:46:50 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:48:04 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.17s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.17s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:49:18 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:50:33 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:51:47 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.17s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.16s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:53:01 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.08s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.08s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:54:16 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:55:30 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (8.06s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:56:44 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:57:59 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (9.78s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 01:59:13 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:00:28 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (2.08s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:01:42 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:02:56 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:04:11 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:05:25 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.17s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:06:40 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (11.08s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.12s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (11.08s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:07:55 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.15s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:09:10 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.09s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.09s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.09s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:10:24 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.09s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:11:38 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.13s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.12s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.12s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:12:53 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.17s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:14:07 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (18.97s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.09s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.08s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:15:30 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.02s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.02s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.02s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:16:45 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.11s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.11s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.11s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:17:59 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.11s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:19:14 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.06s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:20:28 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:21:42 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.07s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.08s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.07s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:22:57 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:24:11 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.11s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.11s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.11s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:25:25 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.08s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:26:40 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.08s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.08s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:27:54 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.07s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:29:09 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:30:23 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:31:38 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:32:52 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.07s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.07s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:34:06 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:35:20 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.07s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:36:35 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:37:49 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:39:04 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:40:18 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:41:32 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:42:46 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:44:01 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.29s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.29s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:45:16 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.08s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.08s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:46:30 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:47:44 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.07s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.07s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:48:59 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.15s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.15s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:50:13 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:51:27 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:52:42 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:53:56 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:55:10 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:56:25 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:57:39 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.07s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.08s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 02:58:54 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.08s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.08s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:00:08 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.15s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.15s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:01:23 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:02:37 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:03:52 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:05:06 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.09s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.09s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:06:21 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.06s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:07:35 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.10s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.09s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:08:49 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:10:04 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.09s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.08s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:11:18 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.09s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.02s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.02s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.08s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:12:32 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.07s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.07s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:13:47 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.08s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.08s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:15:01 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.12s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.12s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:16:16 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.07s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.07s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:17:30 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:18:44 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.14s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.14s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:19:59 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.25s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.25s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:21:14 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:22:28 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.14s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.14s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:23:42 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:24:57 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.12s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.12s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:26:11 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.07s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.07s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:27:26 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.20s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.20s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:28:40 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.08s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.07s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:29:55 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.16s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.16s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:31:09 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:32:24 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:33:38 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.17s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.17s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:34:53 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.12s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.12s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:36:08 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.06s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:37:22 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.11s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.11s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:38:36 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:39:51 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:41:05 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.14s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.13s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:42:20 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.02s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.09s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.09s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.02s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:43:34 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:44:49 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.10s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.09s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:46:03 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:47:18 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.09s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.09s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:48:32 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.17s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.17s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:49:47 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.19s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.19s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:51:01 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:52:16 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:53:30 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.12s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.12s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:54:45 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:55:59 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (11.10s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (11.09s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:57:15 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.11s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.11s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:58:29 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 03:59:44 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.10s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.09s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:00:59 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:02:13 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.34s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:03:24 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.19s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.19s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:04:39 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:05:54 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.27s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:07:08 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.13s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.13s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.12s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:08:23 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.13s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:09:38 - WiFi: GoTitansFC - Internet: 3/4 sites accessible
+  (0.37s) - https://github.com: SUCCESS
+  (0.52s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:10:43 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.31s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:11:48 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.55s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:12:53 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.37s) - https://github.com: SUCCESS
+  (0.29s) - https://google.com: SUCCESS
+  (0.22s) - https://apple.com: SUCCESS
+  (0.28s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:13:58 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.54s) - https://github.com: SUCCESS
+  (0.50s) - https://google.com: SUCCESS
+  (0.34s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:15:03 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.31s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:16:07 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.54s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.57s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:17:12 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.36s) - https://github.com: SUCCESS
+  (0.48s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.44s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:18:17 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:19:22 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.37s) - https://github.com: SUCCESS
+  (0.29s) - https://google.com: SUCCESS
+  (0.22s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:20:27 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.38s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:21:32 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.36s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.29s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:22:36 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.38s) - https://github.com: SUCCESS
+  (0.30s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:23:41 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.54s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:24:46 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.36s) - https://github.com: SUCCESS
+  (0.30s) - https://google.com: SUCCESS
+  (0.37s) - https://apple.com: SUCCESS
+  (0.45s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:25:51 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.54s) - https://github.com: SUCCESS
+  (0.46s) - https://google.com: SUCCESS
+  (0.35s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:26:55 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:28:00 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.41s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.23s) - https://apple.com: SUCCESS
+  (0.28s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:29:05 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.73s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.34s) - https://apple.com: SUCCESS
+  (0.68s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:30:10 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.56s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.37s) - https://apple.com: SUCCESS
+  (0.50s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:31:15 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.23s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:32:20 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:33:25 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:34:29 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.36s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:35:34 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.55s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.46s) - https://apple.com: SUCCESS
+  (0.40s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:36:39 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:37:44 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.36s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.35s) - https://apple.com: SUCCESS
+  (0.50s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:38:48 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.60s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.37s) - https://apple.com: SUCCESS
+  (0.43s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:39:53 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.48s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:40:58 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.56s) - https://github.com: SUCCESS
+  (0.54s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.40s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:42:03 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.56s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.41s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:43:08 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.36s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.41s) - https://apple.com: SUCCESS
+  (0.46s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:44:13 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.50s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:45:18 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.57s) - https://github.com: SUCCESS
+  (0.43s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.40s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:46:23 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.38s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.43s) - https://apple.com: SUCCESS
+  (0.50s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:47:28 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.56s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.50s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:48:33 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:49:37 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.57s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.50s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:50:42 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.60s) - https://github.com: SUCCESS
+  (0.55s) - https://google.com: SUCCESS
+  (0.48s) - https://apple.com: SUCCESS
+  (0.29s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:51:47 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:52:52 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:53:57 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.31s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:55:01 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.57s) - https://github.com: SUCCESS
+  (0.53s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.49s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:56:06 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.56s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.40s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:57:11 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.58s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.35s) - https://apple.com: SUCCESS
+  (0.41s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:58:16 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.41s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 04:59:21 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.38s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.23s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:00:26 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.43s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:01:31 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:02:36 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.45s) - https://github.com: SUCCESS
+  (0.45s) - https://google.com: SUCCESS
+  (0.36s) - https://apple.com: SUCCESS
+  (0.48s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:03:40 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.41s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:04:45 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.66s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.35s) - https://apple.com: SUCCESS
+  (0.51s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:05:50 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.55s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.51s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:06:55 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:08:00 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.60s) - https://github.com: SUCCESS
+  (0.55s) - https://google.com: SUCCESS
+  (0.42s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:09:05 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.38s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:10:10 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:11:14 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.53s) - https://github.com: SUCCESS
+  (0.31s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:12:19 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.49s) - https://github.com: SUCCESS
+  (0.40s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.46s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:13:24 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:14:29 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:15:34 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.55s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.36s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:16:39 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:17:44 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.58s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.46s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:18:49 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.59s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.34s) - https://apple.com: SUCCESS
+  (0.53s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:19:54 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.41s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:20:59 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.41s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:22:03 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.37s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:23:08 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.22s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:24:13 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.37s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.44s) - https://apple.com: SUCCESS
+  (0.50s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:25:18 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.56s) - https://github.com: SUCCESS
+  (0.53s) - https://google.com: SUCCESS
+  (0.34s) - https://apple.com: SUCCESS
+  (0.29s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:26:23 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.38s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:27:28 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.41s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.23s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:28:33 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.56s) - https://github.com: SUCCESS
+  (0.55s) - https://google.com: SUCCESS
+  (0.41s) - https://apple.com: SUCCESS
+  (0.41s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:29:38 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:30:43 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.41s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.38s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:31:47 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.56s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.40s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:32:53 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:33:57 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:35:02 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.54s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.37s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:36:07 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:37:12 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:38:17 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.45s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:39:22 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.41s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.29s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:40:26 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.54s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.50s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:41:31 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.38s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.50s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:42:36 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.42s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:43:41 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.55s) - https://github.com: SUCCESS
+  (0.31s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.50s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:44:46 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:45:51 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.31s) - https://google.com: SUCCESS
+  (0.23s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:46:56 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:48:01 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.53s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:49:05 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.57s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.35s) - https://apple.com: SUCCESS
+  (0.53s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:50:11 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.38s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.46s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:51:15 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.37s) - https://github.com: SUCCESS
+  (0.59s) - https://google.com: SUCCESS
+  (0.36s) - https://apple.com: SUCCESS
+  (0.42s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:52:21 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:53:25 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.38s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:54:30 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.31s) - https://google.com: SUCCESS
+  (0.22s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:55:35 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.41s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:56:40 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:57:44 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.56s) - https://github.com: SUCCESS
+  (0.52s) - https://google.com: SUCCESS
+  (0.36s) - https://apple.com: SUCCESS
+  (0.40s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:58:49 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.57s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 05:59:54 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.40s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:00:59 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:02:04 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:03:09 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:04:14 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.54s) - https://github.com: SUCCESS
+  (0.54s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.37s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:05:19 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.36s) - https://github.com: SUCCESS
+  (0.31s) - https://google.com: SUCCESS
+  (0.37s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:06:23 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:07:28 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (1.44s) - https://github.com: SUCCESS
+  (0.54s) - https://google.com: SUCCESS
+  (1.27s) - https://apple.com: SUCCESS
+  (1.41s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:08:34 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:09:39 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.37s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.36s) - https://apple.com: SUCCESS
+  (0.56s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:10:44 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.55s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:11:49 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.55s) - https://github.com: SUCCESS
+  (0.52s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.41s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:12:54 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.36s) - https://github.com: SUCCESS
+  (0.47s) - https://google.com: SUCCESS
+  (0.41s) - https://apple.com: SUCCESS
+  (0.29s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:13:59 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.41s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:15:04 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.57s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:16:09 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:17:14 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.36s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:18:18 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.38s) - https://github.com: SUCCESS
+  (0.56s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.41s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:19:23 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.38s) - https://github.com: SUCCESS
+  (0.31s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:20:28 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.23s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:21:33 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.55s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:22:38 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.38s) - https://github.com: SUCCESS
+  (0.57s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:23:43 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.41s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.57s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:24:48 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.57s) - https://github.com: SUCCESS
+  (0.50s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:25:53 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.38s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:26:58 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.55s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.49s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:28:03 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.40s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.47s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:29:07 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.38s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:30:12 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.58s) - https://github.com: SUCCESS
+  (0.41s) - https://google.com: SUCCESS
+  (0.45s) - https://apple.com: SUCCESS
+  (0.42s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:31:17 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.55s) - https://github.com: SUCCESS
+  (0.51s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.52s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:32:22 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.38s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.21s) - https://apple.com: SUCCESS
+  (0.57s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:33:27 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.23s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:34:32 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.55s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:35:37 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.55s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:36:42 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.55s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:37:46 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:38:51 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.56s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.40s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:39:56 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.51s) - https://google.com: SUCCESS
+  (0.44s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:41:01 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.56s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:42:06 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:43:11 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.41s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:44:15 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.42s) - https://github.com: SUCCESS
+  (0.40s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:45:20 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.55s) - https://github.com: SUCCESS
+  (0.54s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.51s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:46:25 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.42s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:47:30 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.59s) - https://github.com: SUCCESS
+  (0.31s) - https://google.com: SUCCESS
+  (0.22s) - https://apple.com: SUCCESS
+  (0.29s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:48:35 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.56s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:49:40 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:50:45 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.57s) - https://github.com: SUCCESS
+  (0.55s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.40s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:51:50 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.41s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:52:55 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.55s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.50s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:53:59 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.37s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.81s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:55:05 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.54s) - https://github.com: SUCCESS
+  (0.51s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:56:10 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.37s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.22s) - https://apple.com: SUCCESS
+  (0.47s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:57:14 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.57s) - https://github.com: SUCCESS
+  (0.40s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.41s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:58:19 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.56s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 06:59:25 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.49s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.60s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:00:30 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:01:34 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.38s) - https://github.com: SUCCESS
+  (0.40s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:02:39 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.41s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:03:44 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.38s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.41s) - https://apple.com: SUCCESS
+  (0.49s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:04:49 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.48s) - https://github.com: SUCCESS
+  (0.48s) - https://google.com: SUCCESS
+  (0.39s) - https://apple.com: SUCCESS
+  (0.43s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:05:54 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.38s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:06:59 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.37s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:08:03 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.58s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:09:08 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.57s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:10:13 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.59s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.34s) - https://apple.com: SUCCESS
+  (0.42s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:11:18 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:12:23 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:13:28 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (1.44s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.54s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:14:34 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.55s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.23s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:15:39 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:16:43 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:17:48 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.59s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.52s) - https://apple.com: SUCCESS
+  (0.59s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:18:53 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:19:58 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.57s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.35s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:21:03 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:22:08 - WiFi: GoTitansFC - Internet: 3/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.41s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (5.20s) - https://reddit.com: FAILED: The read operation timed out
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:23:17 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.38s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:24:22 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.38s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:25:27 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:26:32 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:27:37 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:28:41 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.43s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.37s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:29:46 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.58s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:30:51 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.38s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.21s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:31:56 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.38s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:33:00 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:34:05 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.56s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.35s) - https://apple.com: SUCCESS
+  (0.40s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:35:10 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:36:15 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.55s) - https://github.com: SUCCESS
+  (0.52s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:37:20 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.37s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.37s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:38:24 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:39:29 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:40:34 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.37s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:41:38 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.23s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:42:43 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.41s) - https://github.com: SUCCESS
+  (0.41s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:43:48 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.22s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:44:53 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.37s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:45:58 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.44s) - https://github.com: SUCCESS
+  (0.41s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.37s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:47:03 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.38s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:48:07 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.57s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.34s) - https://apple.com: SUCCESS
+  (0.41s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:49:01 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.36s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.29s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:49:12 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.43s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.23s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:50:17 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:51:04 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:51:22 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.38s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:52:26 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.64s) - https://github.com: SUCCESS
+  (0.61s) - https://google.com: SUCCESS
+  (0.55s) - https://apple.com: SUCCESS
+  (0.62s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:53:32 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.41s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:54:08 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.37s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:54:36 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.43s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 07:55:41 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
