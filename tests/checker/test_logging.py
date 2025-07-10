@@ -1,7 +1,7 @@
 import pytest
 from unittest.mock import patch, mock_open, MagicMock, call
 import json
-from src.libs.logging import log_to_file
+from src.libs.checker.logging import log_to_file
 
 
 @pytest.fixture
@@ -18,9 +18,9 @@ def sample_results():
         ]
     }
 
-@patch('src.libs.logging.socket.gethostname')
-@patch('src.libs.logging.datetime.datetime')
-@patch('src.libs.logging.os.makedirs')
+@patch('src.libs.checker.logging.socket.gethostname')
+@patch('src.libs.checker.logging.datetime.datetime')
+@patch('src.libs.checker.logging.os.makedirs')
 @patch('builtins.open', new_callable=mock_open)
 def test_log_to_file_default_path(mock_file, mock_makedirs, mock_datetime, mock_hostname, sample_results):
     mock_hostname.return_value = 'test-hostname'

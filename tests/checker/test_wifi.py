@@ -1,7 +1,7 @@
 import pytest
 from unittest.mock import patch, MagicMock
 import subprocess
-from src.libs.wifi import (
+from src.libs.checker.wifi import (
     get_wifi_network_via_networksetup,
     get_wifi_network_via_system_profiler,
     get_wifi_network
@@ -10,7 +10,7 @@ from src.libs.wifi import (
 
 class TestWiFi:
 
-    @patch('src.libs.wifi.subprocess.run')
+    @patch('src.libs.checker.wifi.subprocess.run')
     def test_get_wifi_network_via_networksetup_success(self, mock_run):
         """Test successful WiFi network detection via networksetup."""
         mock_result = MagicMock()
@@ -25,7 +25,7 @@ class TestWiFi:
             capture_output=True, text=True, check=True
         )
 
-    @patch('src.libs.wifi.subprocess.run')
+    @patch('src.libs.checker.wifi.subprocess.run')
     def test_get_wifi_network_via_networksetup_with_spaces(self, mock_run):
         """Test WiFi network with spaces in name."""
         mock_result = MagicMock()
@@ -36,7 +36,7 @@ class TestWiFi:
         
         assert result == "My Home Network"
 
-    @patch('src.libs.wifi.subprocess.run')
+    @patch('src.libs.checker.wifi.subprocess.run')
     def test_get_wifi_network_via_networksetup_no_network(self, mock_run):
         """Test when no WiFi network is connected."""
         mock_result = MagicMock()
@@ -47,7 +47,7 @@ class TestWiFi:
         
         assert result is None
 
-    @patch('src.libs.wifi.subprocess.run')
+    @patch('src.libs.checker.wifi.subprocess.run')
     def test_get_wifi_network_via_networksetup_exception(self, mock_run):
         """Test exception handling in networksetup method."""
         mock_run.side_effect = subprocess.CalledProcessError(1, ['networksetup'])
@@ -56,7 +56,7 @@ class TestWiFi:
         
         assert result is None
 
-    @patch('src.libs.wifi.subprocess.run')
+    @patch('src.libs.checker.wifi.subprocess.run')
     def test_get_wifi_network_via_networksetup_empty_output(self, mock_run):
         """Test empty output from networksetup."""
         mock_result = MagicMock()
@@ -67,7 +67,7 @@ class TestWiFi:
         
         assert result is None
 
-    @patch('src.libs.wifi.subprocess.run')
+    @patch('src.libs.checker.wifi.subprocess.run')
     def test_get_wifi_network_via_system_profiler_success(self, mock_run):
         """Test successful WiFi network detection via system_profiler."""
         mock_result = MagicMock()
@@ -117,7 +117,7 @@ class TestWiFi:
             capture_output=True, text=True, check=True
         )
 
-    @patch('src.libs.wifi.subprocess.run')
+    @patch('src.libs.checker.wifi.subprocess.run')
     def test_get_wifi_network_via_system_profiler_hotspot(self, mock_run):
         """Test WiFi network detection for hotspot connections."""
         mock_result = MagicMock()
@@ -139,7 +139,7 @@ class TestWiFi:
         
         assert result == "iPhone Hotspot"
 
-    @patch('src.libs.wifi.subprocess.run')
+    @patch('src.libs.checker.wifi.subprocess.run')
     def test_get_wifi_network_via_system_profiler_network_with_spaces(self, mock_run):
         """Test WiFi network with spaces in name via system_profiler."""
         mock_result = MagicMock()
@@ -160,7 +160,7 @@ class TestWiFi:
         
         assert result == "My Home Network 5G"
 
-    @patch('src.libs.wifi.subprocess.run')
+    @patch('src.libs.checker.wifi.subprocess.run')
     def test_get_wifi_network_via_system_profiler_no_current_network(self, mock_run):
         """Test when no current network information is available."""
         mock_result = MagicMock()
@@ -177,7 +177,7 @@ class TestWiFi:
         
         assert result is None
 
-    @patch('src.libs.wifi.subprocess.run')
+    @patch('src.libs.checker.wifi.subprocess.run')
     def test_get_wifi_network_via_system_profiler_exception(self, mock_run):
         """Test exception handling in system_profiler method."""
         mock_run.side_effect = subprocess.CalledProcessError(1, ['system_profiler'])
@@ -186,7 +186,7 @@ class TestWiFi:
         
         assert result is None
 
-    @patch('src.libs.wifi.subprocess.run')
+    @patch('src.libs.checker.wifi.subprocess.run')
     def test_get_wifi_network_via_system_profiler_empty_network_name(self, mock_run):
         """Test handling of empty network name in system_profiler output."""
         mock_result = MagicMock()
@@ -206,7 +206,7 @@ class TestWiFi:
         
         assert result is None
 
-    @patch('src.libs.wifi.subprocess.run')
+    @patch('src.libs.checker.wifi.subprocess.run')
     def test_get_wifi_network_via_system_profiler_filtered_lines(self, mock_run):
         """Test that system_profiler filters out unwanted lines."""
         mock_result = MagicMock()
@@ -230,8 +230,8 @@ class TestWiFi:
         
         assert result == "TestNetwork"
 
-    @patch('src.libs.wifi.get_wifi_network_via_system_profiler')
-    @patch('src.libs.wifi.get_wifi_network_via_networksetup')
+    @patch('src.libs.checker.wifi.get_wifi_network_via_system_profiler')
+    @patch('src.libs.checker.wifi.get_wifi_network_via_networksetup')
     def test_get_wifi_network_networksetup_success(self, mock_networksetup, mock_system_profiler):
         """Test get_wifi_network when networksetup succeeds."""
         mock_networksetup.return_value = "HomeNetwork"
@@ -243,8 +243,8 @@ class TestWiFi:
         mock_networksetup.assert_called_once()
         mock_system_profiler.assert_not_called()
 
-    @patch('src.libs.wifi.get_wifi_network_via_system_profiler')
-    @patch('src.libs.wifi.get_wifi_network_via_networksetup')
+    @patch('src.libs.checker.wifi.get_wifi_network_via_system_profiler')
+    @patch('src.libs.checker.wifi.get_wifi_network_via_networksetup')
     def test_get_wifi_network_fallback_to_system_profiler(self, mock_networksetup, mock_system_profiler):
         """Test get_wifi_network fallback to system_profiler when networksetup fails."""
         mock_networksetup.return_value = None
@@ -256,8 +256,8 @@ class TestWiFi:
         mock_networksetup.assert_called_once()
         mock_system_profiler.assert_called_once()
 
-    @patch('src.libs.wifi.get_wifi_network_via_system_profiler')
-    @patch('src.libs.wifi.get_wifi_network_via_networksetup')
+    @patch('src.libs.checker.wifi.get_wifi_network_via_system_profiler')
+    @patch('src.libs.checker.wifi.get_wifi_network_via_networksetup')
     def test_get_wifi_network_both_methods_fail(self, mock_networksetup, mock_system_profiler):
         """Test get_wifi_network when both methods fail."""
         mock_networksetup.return_value = None
@@ -269,8 +269,8 @@ class TestWiFi:
         mock_networksetup.assert_called_once()
         mock_system_profiler.assert_called_once()
 
-    @patch('src.libs.wifi.get_wifi_network_via_system_profiler')
-    @patch('src.libs.wifi.get_wifi_network_via_networksetup')
+    @patch('src.libs.checker.wifi.get_wifi_network_via_system_profiler')
+    @patch('src.libs.checker.wifi.get_wifi_network_via_networksetup')
     def test_get_wifi_network_networksetup_returns_empty_string(self, mock_networksetup, mock_system_profiler):
         """Test get_wifi_network when networksetup returns empty string."""
         mock_networksetup.return_value = ""
@@ -282,7 +282,7 @@ class TestWiFi:
         mock_networksetup.assert_called_once()
         mock_system_profiler.assert_called_once()
 
-    @patch('src.libs.wifi.subprocess.run')
+    @patch('src.libs.checker.wifi.subprocess.run')
     def test_get_wifi_network_via_system_profiler_malformed_output(self, mock_run):
         """Test handling of malformed system_profiler output."""
         mock_result = MagicMock()
@@ -301,7 +301,7 @@ class TestWiFi:
         
         assert result is None
 
-    @patch('src.libs.wifi.subprocess.run')
+    @patch('src.libs.checker.wifi.subprocess.run')
     def test_get_wifi_network_via_system_profiler_with_special_characters(self, mock_run):
         """Test WiFi network name with special characters."""
         mock_result = MagicMock()
@@ -321,7 +321,7 @@ class TestWiFi:
         
         assert result == "Network-Name_With.Special@Chars"
 
-    @patch('src.libs.wifi.subprocess.run')
+    @patch('src.libs.checker.wifi.subprocess.run')
     def test_get_wifi_network_via_networksetup_generic_exception(self, mock_run):
         """Test generic exception handling in networksetup method."""
         mock_run.side_effect = Exception("Generic error")
@@ -330,7 +330,7 @@ class TestWiFi:
         
         assert result is None
 
-    @patch('src.libs.wifi.subprocess.run')
+    @patch('src.libs.checker.wifi.subprocess.run')
     def test_get_wifi_network_via_system_profiler_generic_exception(self, mock_run):
         """Test generic exception handling in system_profiler method."""
         mock_run.side_effect = Exception("Generic error")

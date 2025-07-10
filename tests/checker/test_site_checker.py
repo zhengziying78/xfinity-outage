@@ -3,13 +3,13 @@ from unittest.mock import patch, MagicMock
 import urllib.error
 import time
 from concurrent.futures import Future
-from src.libs.site_checker import check_single_site, check_connectivity, DEFAULT_WEBSITES
+from src.libs.checker.site_checker import check_single_site, check_connectivity, DEFAULT_WEBSITES
 
 
 class TestSiteChecker:
 
-    @patch('src.libs.site_checker.time.time')
-    @patch('src.libs.site_checker.urllib.request.urlopen')
+    @patch('src.libs.checker.site_checker.time.time')
+    @patch('src.libs.checker.site_checker.urllib.request.urlopen')
     def test_check_single_site_success(self, mock_urlopen, mock_time):
         mock_time.side_effect = [1000.0, 1000.5]  # Start and end times
         mock_response = MagicMock()
@@ -25,8 +25,8 @@ class TestSiteChecker:
         }
         mock_urlopen.assert_called_once_with('https://example.com', timeout=5)
 
-    @patch('src.libs.site_checker.time.time')
-    @patch('src.libs.site_checker.urllib.request.urlopen')
+    @patch('src.libs.checker.site_checker.time.time')
+    @patch('src.libs.checker.site_checker.urllib.request.urlopen')
     def test_check_single_site_http_error(self, mock_urlopen, mock_time):
         mock_time.side_effect = [1000.0, 1000.3]
         mock_response = MagicMock()
@@ -39,8 +39,8 @@ class TestSiteChecker:
         assert result['status'] == 'HTTP_404'
         assert abs(result['duration'] - 0.3) < 0.001  # Allow for floating point precision
 
-    @patch('src.libs.site_checker.time.time')
-    @patch('src.libs.site_checker.urllib.request.urlopen')
+    @patch('src.libs.checker.site_checker.time.time')
+    @patch('src.libs.checker.site_checker.urllib.request.urlopen')
     def test_check_single_site_url_error(self, mock_urlopen, mock_time):
         mock_time.side_effect = [1000.0, 1005.0]
         mock_urlopen.side_effect = urllib.error.URLError("Name or service not known")
@@ -52,8 +52,8 @@ class TestSiteChecker:
         assert 'Name or service not known' in result['status']
         assert result['duration'] == 5.0
 
-    @patch('src.libs.site_checker.time.time')
-    @patch('src.libs.site_checker.urllib.request.urlopen')
+    @patch('src.libs.checker.site_checker.time.time')
+    @patch('src.libs.checker.site_checker.urllib.request.urlopen')
     def test_check_single_site_generic_exception(self, mock_urlopen, mock_time):
         mock_time.side_effect = [1000.0, 1002.0]
         mock_urlopen.side_effect = Exception("Connection timeout")
@@ -64,9 +64,9 @@ class TestSiteChecker:
         assert result['status'] == 'FAILED: Connection timeout'
         assert result['duration'] == 2.0
 
-    @patch('src.libs.site_checker.get_wifi_network')
-    @patch('src.libs.site_checker.get_timestamp_info')
-    @patch('src.libs.site_checker.ThreadPoolExecutor')
+    @patch('src.libs.checker.site_checker.get_wifi_network')
+    @patch('src.libs.checker.site_checker.get_timestamp_info')
+    @patch('src.libs.checker.site_checker.ThreadPoolExecutor')
     def test_check_connectivity_default_websites(self, mock_executor, mock_timestamp, mock_wifi):
         # Mock dependencies
         mock_timestamp.return_value = {
@@ -106,9 +106,9 @@ class TestSiteChecker:
             assert check['url'] == DEFAULT_WEBSITES[i]
             assert check['status'] == 'SUCCESS'
 
-    @patch('src.libs.site_checker.get_wifi_network')
-    @patch('src.libs.site_checker.get_timestamp_info')
-    @patch('src.libs.site_checker.ThreadPoolExecutor')
+    @patch('src.libs.checker.site_checker.get_wifi_network')
+    @patch('src.libs.checker.site_checker.get_timestamp_info')
+    @patch('src.libs.checker.site_checker.ThreadPoolExecutor')
     def test_check_connectivity_custom_websites(self, mock_executor, mock_timestamp, mock_wifi):
         custom_websites = ['https://test1.com', 'https://test2.com']
         
@@ -140,9 +140,9 @@ class TestSiteChecker:
         assert result['checks'][0]['url'] == 'https://test1.com'
         assert result['checks'][1]['url'] == 'https://test2.com'
 
-    @patch('src.libs.site_checker.get_wifi_network')
-    @patch('src.libs.site_checker.get_timestamp_info')
-    @patch('src.libs.site_checker.ThreadPoolExecutor')
+    @patch('src.libs.checker.site_checker.get_wifi_network')
+    @patch('src.libs.checker.site_checker.get_timestamp_info')
+    @patch('src.libs.checker.site_checker.ThreadPoolExecutor')
     def test_check_connectivity_with_failed_checks(self, mock_executor, mock_timestamp, mock_wifi):
         websites = ['https://good.com', 'https://bad.com']
         
@@ -179,9 +179,9 @@ class TestSiteChecker:
         assert result['checks'][0]['status'] == 'SUCCESS'
         assert result['checks'][1]['status'] == 'FAILED: Connection timeout'
 
-    @patch('src.libs.site_checker.get_wifi_network')
-    @patch('src.libs.site_checker.get_timestamp_info')
-    @patch('src.libs.site_checker.ThreadPoolExecutor')
+    @patch('src.libs.checker.site_checker.get_wifi_network')
+    @patch('src.libs.checker.site_checker.get_timestamp_info')
+    @patch('src.libs.checker.site_checker.ThreadPoolExecutor')
     def test_check_connectivity_thread_exception(self, mock_executor, mock_timestamp, mock_wifi):
         websites = ['https://example.com']
         
@@ -207,9 +207,9 @@ class TestSiteChecker:
         assert result['checks'][0]['status'] == 'FAILED: Thread execution failed'
         assert result['checks'][0]['duration'] == 0.0
 
-    @patch('src.libs.site_checker.get_wifi_network')
-    @patch('src.libs.site_checker.get_timestamp_info')
-    @patch('src.libs.site_checker.ThreadPoolExecutor')
+    @patch('src.libs.checker.site_checker.get_wifi_network')
+    @patch('src.libs.checker.site_checker.get_timestamp_info')
+    @patch('src.libs.checker.site_checker.ThreadPoolExecutor')
     def test_check_connectivity_result_ordering(self, mock_executor, mock_timestamp, mock_wifi):
         websites = ['https://z.com', 'https://a.com', 'https://m.com']
         
