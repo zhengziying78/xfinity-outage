@@ -41,7 +41,7 @@ python3 src/plot_outage_graph.py --output-dir ~/Documents --output my_plot.png
 
 **Example**
 
-<img width="3553" height="1634" alt="image" src="https://github.com/user-attachments/assets/64d3ec7f-cf87-4a3a-86a4-f6f47fbd046e" />
+<img width="3553" height="1634" alt="image" src="https://github.com/user-attachments/assets/c4a04d64-479b-4b0a-a490-6394fdb3f6fc" />
 
 For detailed setup instructions and configuration options, see [`setup/README.md`](setup/README.md).
 
