@@ -2,14 +2,14 @@ import pytest
 from unittest.mock import patch, MagicMock
 import datetime
 import time
-from src.timestamp import get_timestamp_info
+from src.libs.timestamp import get_timestamp_info
 
 
 class TestTimestamp:
 
-    @patch('src.timestamp.time.tzname', ['EST', 'EDT'])
-    @patch('src.timestamp.time.daylight', 1)
-    @patch('src.timestamp.datetime.datetime')
+    @patch('src.libs.timestamp.time.tzname', ['EST', 'EDT'])
+    @patch('src.libs.timestamp.time.daylight', 1)
+    @patch('src.libs.timestamp.datetime.datetime')
     def test_get_timestamp_info_basic(self, mock_datetime):
         # Mock current time
         mock_local_dt = MagicMock()
@@ -34,9 +34,9 @@ class TestTimestamp:
         assert result['timestamp_utc'] == '2025-07-09 14:30:45'
         assert result['timezone_local'] == 'EDT GMT-0400'
 
-    @patch('src.timestamp.time.tzname', ['EST', 'EDT'])
-    @patch('src.timestamp.time.daylight', 0)
-    @patch('src.timestamp.datetime.datetime')
+    @patch('src.libs.timestamp.time.tzname', ['EST', 'EDT'])
+    @patch('src.libs.timestamp.time.daylight', 0)
+    @patch('src.libs.timestamp.datetime.datetime')
     def test_get_timestamp_info_standard_time(self, mock_datetime):
         # Mock current time
         mock_local_dt = MagicMock()
@@ -61,9 +61,9 @@ class TestTimestamp:
         assert result['timestamp_utc'] == '2025-01-15 20:30:45'
         assert result['timezone_local'] == 'EST GMT-0500'
 
-    @patch('src.timestamp.time.tzname', ['JST', 'JST'])
-    @patch('src.timestamp.time.daylight', 0)
-    @patch('src.timestamp.datetime.datetime')
+    @patch('src.libs.timestamp.time.tzname', ['JST', 'JST'])
+    @patch('src.libs.timestamp.time.daylight', 0)
+    @patch('src.libs.timestamp.datetime.datetime')
     def test_get_timestamp_info_positive_offset(self, mock_datetime):
         # Mock current time
         mock_local_dt = MagicMock()
@@ -88,9 +88,9 @@ class TestTimestamp:
         assert result['timestamp_utc'] == '2025-07-09 14:30:45'
         assert result['timezone_local'] == 'JST GMT+0900'
 
-    @patch('src.timestamp.time.tzname', ['IST', 'IST'])
-    @patch('src.timestamp.time.daylight', 0)
-    @patch('src.timestamp.datetime.datetime')
+    @patch('src.libs.timestamp.time.tzname', ['IST', 'IST'])
+    @patch('src.libs.timestamp.time.daylight', 0)
+    @patch('src.libs.timestamp.datetime.datetime')
     def test_get_timestamp_info_half_hour_offset(self, mock_datetime):
         # Mock current time
         mock_local_dt = MagicMock()
@@ -115,9 +115,9 @@ class TestTimestamp:
         assert result['timestamp_utc'] == '2025-07-09 14:30:45'
         assert result['timezone_local'] == 'IST GMT+0530'
 
-    @patch('src.timestamp.time.tzname', ['NST', 'NST'])
-    @patch('src.timestamp.time.daylight', 0)
-    @patch('src.timestamp.datetime.datetime')
+    @patch('src.libs.timestamp.time.tzname', ['NST', 'NST'])
+    @patch('src.libs.timestamp.time.daylight', 0)
+    @patch('src.libs.timestamp.datetime.datetime')
     def test_get_timestamp_info_negative_half_hour_offset(self, mock_datetime):
         # Mock current time
         mock_local_dt = MagicMock()
@@ -142,9 +142,9 @@ class TestTimestamp:
         assert result['timestamp_utc'] == '2025-07-09 14:30:45'
         assert result['timezone_local'] == 'NST GMT-0430'
 
-    @patch('src.timestamp.time.tzname', ['UTC', 'UTC'])
-    @patch('src.timestamp.time.daylight', 0)
-    @patch('src.timestamp.datetime.datetime')
+    @patch('src.libs.timestamp.time.tzname', ['UTC', 'UTC'])
+    @patch('src.libs.timestamp.time.daylight', 0)
+    @patch('src.libs.timestamp.datetime.datetime')
     def test_get_timestamp_info_utc_timezone(self, mock_datetime):
         # Mock current time
         mock_local_dt = MagicMock()
@@ -192,9 +192,9 @@ class TestTimestamp:
         # Check timezone format contains GMT
         assert 'GMT' in result['timezone_local']
 
-    @patch('src.timestamp.time.tzname', ['EST', 'EDT'])
-    @patch('src.timestamp.time.daylight', 1)
-    @patch('src.timestamp.datetime.datetime')
+    @patch('src.libs.timestamp.time.tzname', ['EST', 'EDT'])
+    @patch('src.libs.timestamp.time.daylight', 1)
+    @patch('src.libs.timestamp.datetime.datetime')
     def test_get_timestamp_info_datetime_calls(self, mock_datetime):
         """Test that datetime.now() is called correctly."""
         # Mock current time
@@ -227,9 +227,9 @@ class TestTimestamp:
         # Second call should have timezone.utc - we'll just verify it has one argument
         assert len(calls[1][0]) == 1
 
-    @patch('src.timestamp.time.tzname', ['PST', 'PDT'])
-    @patch('src.timestamp.time.daylight', 1)
-    @patch('src.timestamp.datetime.datetime')
+    @patch('src.libs.timestamp.time.tzname', ['PST', 'PDT'])
+    @patch('src.libs.timestamp.time.daylight', 1)
+    @patch('src.libs.timestamp.datetime.datetime')
     def test_get_timestamp_info_different_timezone(self, mock_datetime):
         """Test with different timezone names."""
         # Mock current time

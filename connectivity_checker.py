@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 import os
-from src.site_checker import check_connectivity
-from src.logging import log_to_file, print_summary
-from src.git import push_logs_to_git
+from src.libs.site_checker import check_connectivity
+from src.libs.logging import log_to_file, print_summary
+from src.libs.git import push_logs_to_git
 
 
 if __name__ == "__main__":

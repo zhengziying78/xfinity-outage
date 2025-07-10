@@ -1,7 +1,7 @@
 import pytest
 from unittest.mock import patch, MagicMock
 import subprocess
-from src.git import (
+from src.libs.git import (
     _get_git_status,
     _find_past_day_log_files,
     _add_files_to_git,
@@ -14,7 +14,7 @@ from src.git import (
 class TestGetGitStatus:
     """Test cases for _get_git_status function."""
     
-    @patch('src.git.subprocess.run')
+    @patch('src.libs.git.subprocess.run')
     def test_get_git_status_success(self, mock_run):
         mock_result = MagicMock()
         mock_result.stdout = " M logs/test-hostname/connectivity_log_20250708.txt\n?? logs/test-hostname/connectivity_log_20250707.txt\n"
@@ -28,7 +28,7 @@ class TestGetGitStatus:
             check=True, capture_output=True, text=True
         )
     
-    @patch('src.git.subprocess.run')
+    @patch('src.libs.git.subprocess.run')
     @patch('builtins.print')
     def test_get_git_status_called_process_error(self, mock_print, mock_run):
         mock_run.side_effect = subprocess.CalledProcessError(1, 'git')
@@ -39,7 +39,7 @@ class TestGetGitStatus:
         mock_print.assert_called_once()
         assert "Git status check failed" in mock_print.call_args[0][0]
     
-    @patch('src.git.subprocess.run')
+    @patch('src.libs.git.subprocess.run')
     @patch('builtins.print')
     def test_get_git_status_file_not_found(self, mock_print, mock_run):
         mock_run.side_effect = FileNotFoundError()
@@ -49,7 +49,7 @@ class TestGetGitStatus:
         assert result is None
         mock_print.assert_called_once_with("DEBUG: Git command not found - skipping log push")
     
-    @patch('src.git.subprocess.run')
+    @patch('src.libs.git.subprocess.run')
     def test_get_git_status_empty_output(self, mock_run):
         mock_result = MagicMock()
         mock_result.stdout = "   \n  \n"
@@ -151,7 +151,7 @@ class TestFindPastDayLogFiles:
 class TestAddFilesToGit:
     """Test cases for _add_files_to_git function."""
     
-    @patch('src.git.subprocess.run')
+    @patch('src.libs.git.subprocess.run')
     def test_add_files_to_git_success(self, mock_run):
         files = ["logs/test-hostname/connectivity_log_20250708.txt", "logs/test-hostname/connectivity_log_20250707.txt"]
         
@@ -162,7 +162,7 @@ class TestAddFilesToGit:
         mock_run.assert_any_call(['git', 'add', 'logs/test-hostname/connectivity_log_20250708.txt'], check=True, capture_output=True)
         mock_run.assert_any_call(['git', 'add', 'logs/test-hostname/connectivity_log_20250707.txt'], check=True, capture_output=True)
     
-    @patch('src.git.subprocess.run')
+    @patch('src.libs.git.subprocess.run')
     @patch('builtins.print')
     def test_add_files_to_git_failure(self, mock_print, mock_run):
         mock_run.side_effect = subprocess.CalledProcessError(1, 'git')
@@ -174,7 +174,7 @@ class TestAddFilesToGit:
         mock_print.assert_called_once()
         assert "Git add failed" in mock_print.call_args[0][0]
     
-    @patch('src.git.subprocess.run')
+    @patch('src.libs.git.subprocess.run')
     def test_add_files_to_git_empty_list(self, mock_run):
         result = _add_files_to_git([])
         
@@ -185,7 +185,7 @@ class TestAddFilesToGit:
 class TestCommitFiles:
     """Test cases for _commit_files function."""
     
-    @patch('src.git.subprocess.run')
+    @patch('src.libs.git.subprocess.run')
     def test_commit_files_success(self, mock_run):
         hostname = "test-hostname"
         
@@ -197,7 +197,7 @@ class TestCommitFiles:
             check=True, capture_output=True
         )
     
-    @patch('src.git.subprocess.run')
+    @patch('src.libs.git.subprocess.run')
     @patch('builtins.print')
     def test_commit_files_failure(self, mock_print, mock_run):
         mock_run.side_effect = subprocess.CalledProcessError(1, 'git')
@@ -213,7 +213,7 @@ class TestCommitFiles:
 class TestPullAndPush:
     """Test cases for _pull_and_push function."""
     
-    @patch('src.git.subprocess.run')
+    @patch('src.libs.git.subprocess.run')
     @patch('builtins.print')
     def test_pull_and_push_success(self, mock_print, mock_run):
         files_count = 2
@@ -226,7 +226,7 @@ class TestPullAndPush:
         mock_run.assert_any_call(['git', 'push'], check=True, capture_output=True)
         mock_print.assert_called_once_with("DEBUG: Successfully pushed 2 past day log files")
     
-    @patch('src.git.subprocess.run')
+    @patch('src.libs.git.subprocess.run')
     @patch('builtins.print')
     def test_pull_and_push_pull_fails_push_succeeds(self, mock_print, mock_run):
         # First call (pull) fails, second call (push) succeeds
@@ -241,7 +241,7 @@ class TestPullAndPush:
         assert "Git pull failed" in mock_print.call_args_list[0][0][0]
         assert "Successfully pushed 1 past day log files" in mock_print.call_args_list[1][0][0]
     
-    @patch('src.git.subprocess.run')
+    @patch('src.libs.git.subprocess.run')
     @patch('builtins.print')
     def test_pull_and_push_push_fails(self, mock_print, mock_run):
         # First call (pull) succeeds, second call (push) fails
@@ -259,13 +259,13 @@ class TestPullAndPush:
 class TestPushLogsToGit:
     """Test cases for push_logs_to_git function."""
     
-    @patch('src.git.socket.gethostname')
-    @patch('src.git.datetime.datetime')
-    @patch('src.git._get_git_status')
-    @patch('src.git._find_past_day_log_files')
-    @patch('src.git._add_files_to_git')
-    @patch('src.git._commit_files')
-    @patch('src.git._pull_and_push')
+    @patch('src.libs.git.socket.gethostname')
+    @patch('src.libs.git.datetime.datetime')
+    @patch('src.libs.git._get_git_status')
+    @patch('src.libs.git._find_past_day_log_files')
+    @patch('src.libs.git._add_files_to_git')
+    @patch('src.libs.git._commit_files')
+    @patch('src.libs.git._pull_and_push')
     @patch('builtins.print')
     def test_push_logs_to_git_full_success(self, mock_print, mock_pull_push, mock_commit, 
                                           mock_add, mock_find, mock_git_status, 
@@ -294,7 +294,7 @@ class TestPushLogsToGit:
         mock_print.assert_called_once()
         assert "Found 1 past day log files to push" in mock_print.call_args[0][0]
     
-    @patch('src.git._get_git_status')
+    @patch('src.libs.git._get_git_status')
     def test_push_logs_to_git_no_git_status(self, mock_git_status):
         mock_git_status.return_value = None
         
@@ -303,10 +303,10 @@ class TestPushLogsToGit:
         
         mock_git_status.assert_called_once()
     
-    @patch('src.git.socket.gethostname')
-    @patch('src.git.datetime.datetime')
-    @patch('src.git._get_git_status')
-    @patch('src.git._find_past_day_log_files')
+    @patch('src.libs.git.socket.gethostname')
+    @patch('src.libs.git.datetime.datetime')
+    @patch('src.libs.git._get_git_status')
+    @patch('src.libs.git._find_past_day_log_files')
     def test_push_logs_to_git_no_files_to_add(self, mock_find, mock_git_status, 
                                              mock_datetime, mock_hostname):
         mock_hostname.return_value = "test-hostname"
@@ -319,11 +319,11 @@ class TestPushLogsToGit:
         
         mock_find.assert_called_once()
     
-    @patch('src.git.socket.gethostname')
-    @patch('src.git.datetime.datetime')
-    @patch('src.git._get_git_status')
-    @patch('src.git._find_past_day_log_files')
-    @patch('src.git._add_files_to_git')
+    @patch('src.libs.git.socket.gethostname')
+    @patch('src.libs.git.datetime.datetime')
+    @patch('src.libs.git._get_git_status')
+    @patch('src.libs.git._find_past_day_log_files')
+    @patch('src.libs.git._add_files_to_git')
     @patch('builtins.print')
     def test_push_logs_to_git_add_fails(self, mock_print, mock_add, mock_find, 
                                        mock_git_status, mock_datetime, mock_hostname):
@@ -338,7 +338,7 @@ class TestPushLogsToGit:
         
         mock_add.assert_called_once()
     
-    @patch('src.git.socket.gethostname')
+    @patch('src.libs.git.socket.gethostname')
     @patch('builtins.print')
     def test_push_logs_to_git_unexpected_exception(self, mock_print, mock_hostname):
         mock_hostname.side_effect = Exception("Unexpected error")
