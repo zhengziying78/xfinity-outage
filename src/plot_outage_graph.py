@@ -156,10 +156,10 @@ def plot_success_rates(data: List[Tuple[datetime.datetime, float]], hostname: st
     # Set y-axis to 0-100%
     plt.ylim(0, 105)
     
-    # Format x-axis with labels aligned to midnight
+    # Format x-axis with labels aligned to midnight, at least every 3 hours
     plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('%m-%d %H:%M'))
-    # Set locator to align with midnight (byhour=0 means starting at midnight)
-    plt.gca().xaxis.set_major_locator(mdates.HourLocator(byhour=range(0, 24, 6)))
+    # Set locator to align with midnight (every 3 hours: 00:00, 03:00, 06:00, 09:00, etc.)
+    plt.gca().xaxis.set_major_locator(mdates.HourLocator(byhour=range(0, 24, 3)))
     plt.xticks(rotation=45)
     
     # Add grid
