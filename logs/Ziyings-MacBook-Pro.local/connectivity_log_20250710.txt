@@ -5479,3 +5479,3524 @@ Hostname: Ziyings-MacBook-Pro.local
   (0.38s) - https://reddit.com: SUCCESS
 Hostname: Ziyings-MacBook-Pro.local
 
+2025-07-10 14:45:14 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.12s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 14:46:19 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.13s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.23s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 14:47:24 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 14:48:28 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 14:49:33 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 14:50:39 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.40s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 14:51:43 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.50s) - https://github.com: SUCCESS
+  (1.15s) - https://google.com: SUCCESS
+  (1.11s) - https://apple.com: SUCCESS
+  (1.06s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 14:52:49 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.21s) - https://github.com: SUCCESS
+  (0.46s) - https://google.com: SUCCESS
+  (0.40s) - https://apple.com: SUCCESS
+  (0.47s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 14:53:54 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.51s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 14:54:58 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 14:56:03 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 14:57:08 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.19s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.55s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 14:58:13 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.20s) - https://github.com: SUCCESS
+  (0.42s) - https://google.com: SUCCESS
+  (0.36s) - https://apple.com: SUCCESS
+  (0.42s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 14:59:18 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:00:22 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.45s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:01:27 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.44s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:02:32 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.40s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.41s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:03:37 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:04:41 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.22s) - https://github.com: SUCCESS
+  (0.43s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.40s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:05:46 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.19s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:06:51 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.42s) - https://google.com: SUCCESS
+  (0.36s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:07:56 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.37s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:09:00 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.30s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:10:05 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:11:10 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:12:15 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.03s) - https://google.com: FAILED: <urlopen error timed out>
+  (5.04s) - https://apple.com: FAILED: <urlopen error timed out>
+  (20.04s) - https://reddit.com: FAILED: <urlopen error timed out>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:13:39 - WiFi: GoTitansFC - Internet: 3/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.71s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.62s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:14:44 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (5.04s) - https://github.com: FAILED: <urlopen error timed out>
+  (5.03s) - https://google.com: FAILED: <urlopen error timed out>
+  (5.03s) - https://apple.com: FAILED: <urlopen error timed out>
+  (20.04s) - https://reddit.com: FAILED: <urlopen error timed out>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:16:08 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.04s) - https://google.com: FAILED: <urlopen error timed out>
+  (5.04s) - https://apple.com: FAILED: <urlopen error timed out>
+  (20.05s) - https://reddit.com: FAILED: <urlopen error timed out>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:17:32 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.04s) - https://google.com: FAILED: <urlopen error timed out>
+  (5.04s) - https://apple.com: FAILED: <urlopen error timed out>
+  (20.05s) - https://reddit.com: FAILED: <urlopen error timed out>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:18:57 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (4.05s) - https://google.com: FAILED: <urlopen error [Errno 61] Connection refused>
+  (4.05s) - https://apple.com: FAILED: <urlopen error [Errno 61] Connection refused>
+  (9.10s) - https://reddit.com: FAILED: <urlopen error [Errno 61] Connection refused>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:20:10 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.15s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.05s) - https://apple.com: FAILED: <urlopen error [Errno 61] Connection refused>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:21:25 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.05s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.05s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:22:29 - WiFi: GoTitansFC - Internet: 1/4 sites accessible
+  (0.07s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.69s) - https://google.com: SUCCESS
+  (0.07s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.07s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:23:34 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.41s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:24:39 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.42s) - https://github.com: SUCCESS
+  (0.45s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.74s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:25:44 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.52s) - https://github.com: SUCCESS
+  (0.56s) - https://google.com: SUCCESS
+  (0.59s) - https://apple.com: SUCCESS
+  (0.58s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:26:49 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.23s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:27:54 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.59s) - https://github.com: SUCCESS
+  (0.63s) - https://google.com: SUCCESS
+  (0.70s) - https://apple.com: SUCCESS
+  (0.65s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:28:59 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.42s) - https://github.com: SUCCESS
+  (0.44s) - https://google.com: SUCCESS
+  (0.35s) - https://apple.com: SUCCESS
+  (0.43s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:30:03 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.44s) - https://github.com: SUCCESS
+  (0.41s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:31:08 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.38s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:32:13 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:33:17 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.42s) - https://github.com: SUCCESS
+  (0.41s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.45s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:34:22 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.44s) - https://github.com: SUCCESS
+  (0.50s) - https://google.com: SUCCESS
+  (0.43s) - https://apple.com: SUCCESS
+  (0.48s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:35:27 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.23s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:36:32 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.44s) - https://github.com: SUCCESS
+  (0.40s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.41s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:37:36 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.41s) - https://github.com: SUCCESS
+  (0.41s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:38:41 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.44s) - https://github.com: SUCCESS
+  (0.64s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:39:46 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.78s) - https://github.com: SUCCESS
+  (0.99s) - https://google.com: SUCCESS
+  (0.83s) - https://apple.com: SUCCESS
+  (0.98s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:40:51 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.69s) - https://github.com: SUCCESS
+  (1.06s) - https://google.com: SUCCESS
+  (1.17s) - https://apple.com: SUCCESS
+  (1.23s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:41:57 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.04s) - https://google.com: FAILED: <urlopen error timed out>
+  (5.04s) - https://apple.com: FAILED: <urlopen error timed out>
+  (20.05s) - https://reddit.com: FAILED: <urlopen error timed out>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:43:21 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (7.00s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.03s) - https://apple.com: FAILED: <urlopen error timed out>
+  (19.58s) - https://reddit.com: FAILED: <urlopen error timed out>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:44:45 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.09s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.09s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.04s) - https://apple.com: FAILED: <urlopen error timed out>
+  (10.09s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:45:59 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.04s) - https://apple.com: FAILED: <urlopen error timed out>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:47:14 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.63s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.40s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:48:19 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.42s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.37s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:49:24 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.33s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.34s) - https://apple.com: SUCCESS
+  (0.78s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:50:29 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.03s) - https://google.com: FAILED: <urlopen error timed out>
+  (5.04s) - https://apple.com: FAILED: <urlopen error timed out>
+  (19.05s) - https://reddit.com: FAILED: <urlopen error [Errno 51] Network is unreachable>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:51:52 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (20.02s) - https://reddit.com: FAILED: <urlopen error timed out>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:53:16 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (20.04s) - https://reddit.com: FAILED: <urlopen error timed out>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:54:41 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:55:55 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.06s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:57:10 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.16s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.15s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.16s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:58:24 - WiFi: GoTitansFC - Internet: 1/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 15:59:29 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:00:34 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.49s) - https://google.com: SUCCESS
+  (0.23s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:01:39 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.40s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:02:43 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.13s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.23s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:03:48 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:04:53 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.13s) - https://github.com: SUCCESS
+  (0.59s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:05:58 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.32s) - https://github.com: SUCCESS
+  (0.52s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.41s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:07:03 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:08:07 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:09:12 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:10:17 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.32s) - https://github.com: SUCCESS
+  (0.56s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.41s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:11:21 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.33s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:12:26 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:13:31 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:14:35 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:15:40 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:16:44 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.42s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:17:49 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.21s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.42s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:18:54 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:19:59 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:21:03 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:22:08 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:23:13 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:24:17 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:25:22 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.45s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.42s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:26:27 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.19s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:27:31 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:28:36 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:29:41 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:30:45 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.40s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:31:50 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:32:55 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:33:59 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:35:04 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:36:09 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:37:13 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:38:18 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.32s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.40s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:39:23 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:40:27 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:41:32 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.46s) - https://google.com: SUCCESS
+  (0.40s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:42:37 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.52s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:43:42 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.46s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:44:46 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:45:51 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.52s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:46:55 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:48:00 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.21s) - https://github.com: SUCCESS
+  (0.44s) - https://google.com: SUCCESS
+  (0.35s) - https://apple.com: SUCCESS
+  (0.45s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:49:08 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:50:12 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.23s) - https://github.com: SUCCESS
+  (0.43s) - https://google.com: SUCCESS
+  (0.37s) - https://apple.com: SUCCESS
+  (0.43s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:51:17 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.23s) - https://apple.com: SUCCESS
+  (0.64s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:52:22 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:53:27 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:54:31 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.46s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:55:36 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:56:41 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:57:45 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.68s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:58:50 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.46s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 16:59:55 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.40s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:01:00 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:02:05 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.20s) - https://github.com: SUCCESS
+  (0.46s) - https://google.com: SUCCESS
+  (0.37s) - https://apple.com: SUCCESS
+  (0.40s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:03:10 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.13s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:04:15 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (3.61s) - https://github.com: SUCCESS
+  (3.94s) - https://google.com: SUCCESS
+  (3.94s) - https://apple.com: SUCCESS
+  (3.96s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:05:23 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.03s) - https://google.com: FAILED: <urlopen error timed out>
+  (5.04s) - https://apple.com: FAILED: <urlopen error timed out>
+  (20.04s) - https://reddit.com: FAILED: <urlopen error timed out>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:06:47 - WiFi: xpt phone - Internet: 4/4 sites accessible
+  (0.47s) - https://github.com: SUCCESS
+  (1.12s) - https://google.com: SUCCESS
+  (0.83s) - https://apple.com: SUCCESS
+  (0.91s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:07:53 - WiFi: xpt phone - Internet: 4/4 sites accessible
+  (0.37s) - https://github.com: SUCCESS
+  (1.02s) - https://google.com: SUCCESS
+  (0.65s) - https://apple.com: SUCCESS
+  (0.76s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:08:59 - WiFi: xpt phone - Internet: 4/4 sites accessible
+  (0.48s) - https://github.com: SUCCESS
+  (1.38s) - https://google.com: SUCCESS
+  (0.99s) - https://apple.com: SUCCESS
+  (1.25s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:10:04 - WiFi: xpt phone - Internet: 4/4 sites accessible
+  (0.87s) - https://github.com: SUCCESS
+  (2.06s) - https://google.com: SUCCESS
+  (1.57s) - https://apple.com: SUCCESS
+  (1.74s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:11:11 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:12:25 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.14s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:13:40 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:14:54 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:16:09 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.07s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.07s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.07s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:17:23 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.08s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:18:37 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:19:52 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:21:06 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.14s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.13s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.13s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:22:21 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:23:35 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:24:49 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.13s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:26:04 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:27:18 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.09s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:28:32 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.09s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.08s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.09s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:29:47 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.07s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:31:01 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.21s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.21s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.21s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:32:16 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.13s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:33:30 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.38s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.38s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.38s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:34:45 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.13s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:35:59 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:37:13 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:38:28 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.06s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:39:42 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:40:57 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.11s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.11s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.11s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:42:11 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.05s) - https://apple.com: FAILED: <urlopen error timed out>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:43:21 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (4.10s) - https://apple.com: FAILED: <urlopen error [Errno 51] Network is unreachable>
+  (10.05s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:44:35 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.04s) - https://apple.com: FAILED: <urlopen error timed out>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:45:44 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.04s) - https://apple.com: FAILED: <urlopen error timed out>
+  (10.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:46:59 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.04s) - https://apple.com: FAILED: <urlopen error timed out>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:48:08 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.07s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.04s) - https://apple.com: FAILED: <urlopen error timed out>
+  (10.07s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:49:22 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.04s) - https://apple.com: FAILED: <urlopen error timed out>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:50:32 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.22s) - https://github.com: SUCCESS
+  (0.60s) - https://google.com: SUCCESS
+  (0.38s) - https://apple.com: SUCCESS
+  (0.57s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:51:36 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.41s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:52:41 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:53:46 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.19s) - https://github.com: SUCCESS
+  (0.43s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:54:51 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.27s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:55:55 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.22s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:57:00 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.13s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:58:05 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 17:59:09 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:00:14 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.12s) - https://github.com: SUCCESS
+  (0.51s) - https://google.com: SUCCESS
+  (0.21s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:01:19 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:02:24 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.13s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.23s) - https://apple.com: SUCCESS
+  (0.28s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:03:29 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.73s) - https://github.com: SUCCESS
+  (0.71s) - https://google.com: SUCCESS
+  (0.73s) - https://apple.com: SUCCESS
+  (0.81s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:04:37 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:05:42 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:06:46 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.43s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:07:51 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.13s) - https://github.com: SUCCESS
+  (0.31s) - https://google.com: SUCCESS
+  (0.21s) - https://apple.com: SUCCESS
+  (0.29s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:08:56 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.13s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.51s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:10:01 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.57s) - https://google.com: SUCCESS
+  (0.46s) - https://apple.com: SUCCESS
+  (0.71s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:11:06 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.23s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:12:10 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.12s) - https://github.com: SUCCESS
+  (0.51s) - https://google.com: SUCCESS
+  (0.44s) - https://apple.com: SUCCESS
+  (0.70s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:13:15 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.34s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:14:20 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.32s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.51s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:15:25 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.13s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:16:30 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:17:34 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:18:39 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.31s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.23s) - https://apple.com: SUCCESS
+  (0.52s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:19:44 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.56s) - https://google.com: SUCCESS
+  (0.36s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:20:48 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.20s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:21:53 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.32s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.52s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:22:58 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:24:03 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:25:07 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:26:12 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:27:17 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:28:21 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.42s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:29:26 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:30:31 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.12s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.69s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:31:36 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.19s) - https://github.com: SUCCESS
+  (0.40s) - https://google.com: SUCCESS
+  (0.34s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:32:41 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.19s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.41s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:33:45 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.43s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:34:50 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:35:55 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:36:59 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.21s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:38:04 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.23s) - https://apple.com: SUCCESS
+  (0.53s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:39:09 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.37s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:40:13 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.49s) - https://github.com: SUCCESS
+  (0.78s) - https://google.com: SUCCESS
+  (0.62s) - https://apple.com: SUCCESS
+  (0.65s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:41:19 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.33s) - https://github.com: SUCCESS
+  (0.55s) - https://google.com: SUCCESS
+  (0.36s) - https://apple.com: SUCCESS
+  (0.42s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:42:23 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.34s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:43:28 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.44s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:44:33 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:45:38 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.21s) - https://github.com: SUCCESS
+  (0.40s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.42s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:46:42 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:47:47 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.31s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:48:52 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.29s) - https://github.com: SUCCESS
+  (0.50s) - https://google.com: SUCCESS
+  (0.43s) - https://apple.com: SUCCESS
+  (0.47s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:49:57 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:51:01 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.23s) - https://github.com: SUCCESS
+  (0.41s) - https://google.com: SUCCESS
+  (0.38s) - https://apple.com: SUCCESS
+  (0.42s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:52:06 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.48s) - https://google.com: SUCCESS
+  (0.35s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:53:11 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.31s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.53s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:54:16 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:55:21 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.40s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:56:25 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.13s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.28s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:57:30 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.37s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:58:35 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.45s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.45s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 18:59:39 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.34s) - https://github.com: SUCCESS
+  (0.44s) - https://google.com: SUCCESS
+  (0.35s) - https://apple.com: SUCCESS
+  (0.54s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:00:44 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:01:49 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:02:54 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:03:58 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:05:03 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.36s) - https://github.com: SUCCESS
+  (0.45s) - https://google.com: SUCCESS
+  (0.37s) - https://apple.com: SUCCESS
+  (0.43s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:06:08 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.35s) - https://github.com: SUCCESS
+  (0.55s) - https://google.com: SUCCESS
+  (0.36s) - https://apple.com: SUCCESS
+  (0.44s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:07:12 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.22s) - https://github.com: SUCCESS
+  (0.41s) - https://google.com: SUCCESS
+  (0.34s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:08:17 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.20s) - https://github.com: SUCCESS
+  (0.42s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:09:22 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:10:26 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.30s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:11:31 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.58s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.37s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:12:36 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:13:41 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.31s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.49s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:14:46 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:15:50 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.81s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:16:55 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.41s) - https://google.com: SUCCESS
+  (0.35s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:18:00 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:19:05 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:20:10 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.22s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:21:14 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:22:19 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.31s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.40s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:23:24 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.34s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.35s) - https://apple.com: SUCCESS
+  (0.44s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:24:28 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.13s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.37s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:25:33 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:26:38 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.20s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:27:42 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:28:47 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:29:52 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.41s) - https://google.com: SUCCESS
+  (0.35s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:30:56 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.12s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:32:01 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:33:06 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:34:10 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.12s) - https://github.com: SUCCESS
+  (0.41s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:35:15 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:36:20 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.13s) - https://github.com: SUCCESS
+  (0.55s) - https://google.com: SUCCESS
+  (0.53s) - https://apple.com: SUCCESS
+  (0.57s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:37:25 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.35s) - https://apple.com: SUCCESS
+  (0.41s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:38:29 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:39:34 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:40:39 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.40s) - https://github.com: SUCCESS
+  (0.48s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.42s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:41:43 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:42:48 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.31s) - https://github.com: SUCCESS
+  (0.60s) - https://google.com: SUCCESS
+  (0.44s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:43:53 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.34s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.35s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:44:58 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:46:02 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:47:07 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.12s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:48:12 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:49:16 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.31s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:50:21 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.31s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.55s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:51:26 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.30s) - https://github.com: SUCCESS
+  (0.51s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:52:31 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.13s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.43s) - https://apple.com: SUCCESS
+  (0.49s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:53:35 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.23s) - https://apple.com: SUCCESS
+  (0.61s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:54:40 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:55:45 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.30s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:56:50 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.13s) - https://github.com: SUCCESS
+  (0.57s) - https://google.com: SUCCESS
+  (0.50s) - https://apple.com: SUCCESS
+  (0.43s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:57:55 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.40s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 19:58:59 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:00:04 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.67s) - https://google.com: SUCCESS
+  (0.34s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:01:09 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.36s) - https://apple.com: SUCCESS
+  (0.37s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:02:14 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:03:19 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.21s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:04:24 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.32s) - https://github.com: SUCCESS
+  (0.50s) - https://google.com: SUCCESS
+  (0.35s) - https://apple.com: SUCCESS
+  (0.64s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:05:29 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:06:34 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.37s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:07:38 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.40s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:08:43 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.19s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:09:48 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.20s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:10:53 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.19s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.54s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:11:58 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.69s) - https://google.com: SUCCESS
+  (0.71s) - https://apple.com: SUCCESS
+  (1.40s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:13:04 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:14:09 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.12s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:15:14 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.21s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:16:18 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:17:23 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.31s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.49s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:18:28 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.40s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:19:33 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:20:37 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:21:42 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:22:47 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.34s) - https://apple.com: SUCCESS
+  (0.57s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:23:52 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.24s) - https://github.com: SUCCESS
+  (0.45s) - https://google.com: SUCCESS
+  (0.36s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:24:57 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.48s) - https://google.com: SUCCESS
+  (0.34s) - https://apple.com: SUCCESS
+  (0.49s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:26:01 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.42s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:27:06 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.66s) - https://google.com: SUCCESS
+  (1.61s) - https://apple.com: SUCCESS
+  (1.68s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:28:12 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.33s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.41s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:29:17 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.42s) - https://google.com: SUCCESS
+  (0.36s) - https://apple.com: SUCCESS
+  (0.43s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:30:22 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.13s) - https://github.com: SUCCESS
+  (0.42s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:31:26 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.31s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.21s) - https://apple.com: SUCCESS
+  (0.48s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:32:31 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.37s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:33:36 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:34:41 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:35:45 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:36:50 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:37:55 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.61s) - https://google.com: SUCCESS
+  (0.48s) - https://apple.com: SUCCESS
+  (1.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:39:01 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.60s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.58s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:40:05 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.33s) - https://github.com: SUCCESS
+  (0.65s) - https://google.com: SUCCESS
+  (0.48s) - https://apple.com: SUCCESS
+  (0.78s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:41:13 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.24s) - https://github.com: SUCCESS
+  (0.48s) - https://google.com: SUCCESS
+  (0.37s) - https://apple.com: SUCCESS
+  (0.50s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:42:18 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.40s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:43:23 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:44:28 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:45:33 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.42s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:46:37 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:47:42 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:48:47 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.19s) - https://github.com: SUCCESS
+  (0.41s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:49:51 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:50:56 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:52:01 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:53:06 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:54:10 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:55:15 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:56:20 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:57:25 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:58:30 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.42s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 20:59:34 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.34s) - https://apple.com: SUCCESS
+  (0.40s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:00:39 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:01:44 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.12s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:02:49 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:03:53 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:04:58 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.20s) - https://github.com: SUCCESS
+  (0.40s) - https://google.com: SUCCESS
+  (0.34s) - https://apple.com: SUCCESS
+  (0.41s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:06:03 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:07:08 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.42s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:08:12 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.41s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:09:17 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:10:22 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.41s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:11:27 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.19s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:12:31 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:13:36 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:14:41 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.19s) - https://github.com: SUCCESS
+  (0.47s) - https://google.com: SUCCESS
+  (0.40s) - https://apple.com: SUCCESS
+  (0.44s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:15:46 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.35s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:16:50 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.21s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.44s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:17:55 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.23s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:19:00 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.34s) - https://github.com: SUCCESS
+  (0.55s) - https://google.com: SUCCESS
+  (0.35s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:20:05 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.41s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:21:09 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.13s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:22:14 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:23:19 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.37s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:24:24 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:25:28 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.23s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:26:33 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.31s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.36s) - https://apple.com: SUCCESS
+  (0.29s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:27:37 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:28:42 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:29:47 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.31s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.40s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:30:51 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.20s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:31:56 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.37s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:33:01 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.31s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:34:05 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.29s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:35:10 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:36:15 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.22s) - https://github.com: SUCCESS
+  (0.40s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.54s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:37:20 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:38:24 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.25s) - https://github.com: SUCCESS
+  (0.46s) - https://google.com: SUCCESS
+  (0.38s) - https://apple.com: SUCCESS
+  (0.45s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:39:29 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:40:34 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.33s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.34s) - https://apple.com: SUCCESS
+  (0.43s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:41:39 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:42:44 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.37s) - https://github.com: SUCCESS
+  (0.59s) - https://google.com: SUCCESS
+  (0.38s) - https://apple.com: SUCCESS
+  (0.47s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:43:49 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.11s) - https://github.com: SUCCESS
+  (0.30s) - https://google.com: SUCCESS
+  (0.20s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:44:53 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:45:58 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.35s) - https://github.com: SUCCESS
+  (0.49s) - https://google.com: SUCCESS
+  (0.44s) - https://apple.com: SUCCESS
+  (0.54s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:47:03 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:48:07 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:49:12 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.50s) - https://apple.com: SUCCESS
+  (0.51s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:50:17 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.53s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:51:22 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.40s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:52:27 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:53:31 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:54:36 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:55:41 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:56:45 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:57:50 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 21:58:55 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (1.21s) - https://github.com: SUCCESS
+  (1.59s) - https://google.com: SUCCESS
+  (1.51s) - https://apple.com: SUCCESS
+  (1.55s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:00:01 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:01:05 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:02:10 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.23s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:03:14 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.37s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:04:19 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:05:24 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.13s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.24s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:06:29 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.12s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.40s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:07:33 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.23s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:08:38 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:09:42 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:10:47 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:11:52 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.51s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:12:57 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.37s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:14:01 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.34s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:15:06 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.12s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.22s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:16:11 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.38s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:17:15 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:18:20 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:19:25 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:20:30 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:21:34 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:22:39 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.53s) - https://github.com: SUCCESS
+  (1.12s) - https://google.com: SUCCESS
+  (1.05s) - https://apple.com: SUCCESS
+  (1.14s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:23:44 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:24:49 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.64s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:25:54 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.50s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:26:59 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:28:03 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:29:08 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:30:13 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.49s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:31:18 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:32:22 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.50s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:33:27 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.21s) - https://github.com: SUCCESS
+  (0.56s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.40s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:34:32 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.19s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:35:37 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:36:42 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:37:46 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:38:51 - WiFi: GoTitansFC - Internet: 3/4 sites accessible
+  (0.13s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: FAILED: HTTP Error 503: Service Unavailable
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:39:56 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:41:01 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.51s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:42:06 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:43:10 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:44:15 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:45:20 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.40s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:46:24 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:47:29 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:48:34 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:49:38 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:50:43 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:51:48 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:52:52 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:53:57 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.13s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:55:02 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.41s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:56:06 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:57:11 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.22s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:58:16 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.33s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 22:59:20 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:00:25 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:01:30 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:02:35 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:03:40 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:04:45 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.32s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:05:49 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:06:54 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:07:59 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.19s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.32s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:09:04 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.27s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:10:08 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.40s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:11:13 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.19s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:12:17 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.26s) - https://apple.com: SUCCESS
+  (0.55s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:13:22 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.13s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.34s) - https://apple.com: SUCCESS
+  (0.31s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:14:27 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.31s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:15:32 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (2.64s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.41s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:16:39 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.37s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:17:43 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.03s) - https://apple.com: FAILED: <urlopen error timed out>
+  (20.04s) - https://reddit.com: FAILED: <urlopen error timed out>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:19:08 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.04s) - https://apple.com: FAILED: <urlopen error timed out>
+  (19.85s) - https://reddit.com: FAILED: <urlopen error timed out>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:20:32 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:21:46 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:22:50 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.07s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.07s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.07s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:24:05 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:25:09 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.06s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.05s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:26:24 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:27:28 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.11s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.11s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.11s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.11s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:28:42 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:29:46 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.12s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.12s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.11s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.11s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:31:01 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:32:05 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.44s) - https://github.com: SUCCESS
+  (0.47s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.42s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:33:10 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.38s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:34:15 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.42s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:35:20 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.49s) - https://github.com: SUCCESS
+  (0.48s) - https://google.com: SUCCESS
+  (0.38s) - https://apple.com: SUCCESS
+  (0.46s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:36:24 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.43s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.41s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:37:30 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.39s) - https://github.com: SUCCESS
+  (0.43s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.45s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:38:35 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.43s) - https://github.com: SUCCESS
+  (0.42s) - https://google.com: SUCCESS
+  (0.36s) - https://apple.com: SUCCESS
+  (0.44s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:39:40 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.62s) - https://github.com: SUCCESS
+  (0.44s) - https://google.com: SUCCESS
+  (0.36s) - https://apple.com: SUCCESS
+  (0.77s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:40:45 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.60s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.36s) - https://apple.com: SUCCESS
+  (0.45s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:41:50 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.06s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.04s) - https://apple.com: FAILED: <urlopen error timed out>
+  (20.04s) - https://reddit.com: FAILED: <urlopen error timed out>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:43:14 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.10s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.10s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:44:28 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.11s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.10s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:45:43 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.15s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.14s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:46:57 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (10.06s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (10.06s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:48:12 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (6.21s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (6.21s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:49:22 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (7.32s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (7.31s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:50:34 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.63s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.63s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:51:44 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (5.94s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (5.94s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:52:54 - WiFi: GoTitansFC - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (6.17s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (6.18s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:54:05 - WiFi: GoTitansFC - Internet: 2/4 sites accessible
+  (0.18s) - https://github.com: SUCCESS
+  (0.44s) - https://google.com: SUCCESS
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:55:09 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.12s) - https://github.com: SUCCESS
+  (0.35s) - https://google.com: SUCCESS
+  (0.33s) - https://apple.com: SUCCESS
+  (0.39s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:56:14 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.42s) - https://google.com: SUCCESS
+  (0.87s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:57:19 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.33s) - https://github.com: SUCCESS
+  (0.39s) - https://google.com: SUCCESS
+  (0.38s) - https://apple.com: SUCCESS
+  (0.33s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:58:24 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.15s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.49s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-10 23:59:29 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.16s) - https://github.com: SUCCESS
+  (0.38s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.35s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
