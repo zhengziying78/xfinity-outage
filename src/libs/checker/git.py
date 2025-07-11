@@ -61,6 +61,19 @@ def _commit_files(hostname):
         return False
 
 
+def _check_unpushed_commits(hostname):
+    """Check if there are unpushed commits that affect logs/{hostname}."""
+    try:
+        # Get list of commits that are ahead of remote
+        result = subprocess.run(['git', 'log', 'origin/main..HEAD', '--oneline', '--', f'logs/{hostname}/'], 
+                              check=True, capture_output=True, text=True)
+        unpushed_commits = result.stdout.strip()
+        return len(unpushed_commits) > 0
+    except subprocess.CalledProcessError:
+        # If we can't check (no remote, network issue, etc.), assume there might be unpushed commits
+        return True
+
+
 def _pull_and_push(files_count):
     """Pull with rebase and push to remote."""
     # Pull with rebase to avoid merge conflicts
@@ -86,6 +99,21 @@ def push_logs_to_git():
         hostname = socket.gethostname()
         today_date = datetime.datetime.now().strftime('%Y%m%d')
         today_file = f"logs/{hostname}/connectivity_log_{today_date}.txt"
+        
+        # First, check if there are any unpushed commits for this hostname
+        if _check_unpushed_commits(hostname):
+            print(f"DEBUG: Found unpushed commits for {hostname}, attempting to push...")
+            try:
+                subprocess.run(['git', 'pull', '--rebase'], check=True, capture_output=True)
+            except subprocess.CalledProcessError as e:
+                print(f"DEBUG: Git pull failed (possibly network issue): {e}")
+            
+            try:
+                subprocess.run(['git', 'push'], check=True, capture_output=True)
+                print(f"DEBUG: Successfully pushed existing commits for {hostname}")
+            except subprocess.CalledProcessError as e:
+                print(f"DEBUG: Git push failed (possibly network issue): {e}")
+                # Continue with normal flow to handle new changes
         
         # Get git status for hostname log directory
         git_status_output = _get_git_status(hostname)
