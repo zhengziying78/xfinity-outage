@@ -6,8 +6,8 @@ import datetime
 from typing import List, Tuple
 
 
-def aggregate_by_interval(data: List[Tuple[datetime.datetime, float]], interval_minutes: int = 15) -> List[Tuple[datetime.datetime, float]]:
-    """Aggregate data into specified minute intervals."""
+def aggregate_by_interval(data: List[Tuple[datetime.datetime, float]], interval_minutes: int = 15) -> List[Tuple[datetime.datetime, float, str]]:
+    """Aggregate data into specified minute intervals with data status."""
     if not data:
         return []
     
@@ -29,12 +29,29 @@ def aggregate_by_interval(data: List[Tuple[datetime.datetime, float]], interval_
         
         intervals[interval_end].append(success_rate)
     
-    # Calculate average success rate for each interval
+    # Fill in missing intervals and calculate average success rate
+    if not intervals:
+        return []
+    
+    # Get the full time range
+    first_time = min(intervals.keys())
+    last_time = max(intervals.keys())
+    
+    # Generate all expected intervals
     aggregated_data = []
-    for interval_end in sorted(intervals.keys()):
-        success_rates = intervals[interval_end]
-        avg_success_rate = sum(success_rates) / len(success_rates)
-        aggregated_data.append((interval_end, avg_success_rate))
+    current_time = first_time
+    
+    while current_time <= last_time:
+        if current_time in intervals:
+            # Data available - calculate average
+            success_rates = intervals[current_time]
+            avg_success_rate = sum(success_rates) / len(success_rates)
+            aggregated_data.append((current_time, avg_success_rate, "measured"))
+        else:
+            # No data available - mark as missing
+            aggregated_data.append((current_time, 0.0, "missing"))
+        
+        current_time += datetime.timedelta(minutes=interval_minutes)
     
     print(f"Aggregated into {len(aggregated_data)} {interval_minutes}-minute intervals")
     return aggregated_data

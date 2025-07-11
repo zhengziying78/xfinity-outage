@@ -8,16 +8,15 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 
 
-def plot_success_rates(data: List[Tuple[datetime.datetime, float]], hostname: str, wifi_network: str, interval_minutes: int = 15, output_file: str = None):
+def plot_success_rates(data: List[Tuple[datetime.datetime, float, str]], hostname: str, wifi_network: str, interval_minutes: int = 15, output_file: str = None):
     """Plot success rates as a dot line graph."""
     if not data:
         print("No data to plot")
         return None
     
-    # Extract timestamps and success rates
-    timestamps = [item[0] for item in data]
-    success_rates = [item[1] * 100 for item in data]  # Convert to percentage
-    failure_rates = [100 - rate for rate in success_rates]  # Calculate failure percentage
+    # Separate data by status
+    measured_data = [(item[0], item[1]) for item in data if item[2] == "measured"]
+    missing_data = [(item[0], item[1]) for item in data if item[2] == "missing"]
     
     # Create the plot
     plt.figure(figsize=(12, 6))
@@ -25,13 +24,29 @@ def plot_success_rates(data: List[Tuple[datetime.datetime, float]], hostname: st
     # Calculate bar width based on interval
     bar_width = datetime.timedelta(minutes=interval_minutes * 0.8)  # 80% of interval for spacing
     
-    # Create stacked bar chart
-    # Bottom bars (failure) in orange-red (colorblind friendly)
-    plt.bar(timestamps, failure_rates, width=bar_width, color='#FF6B35', alpha=0.8, 
-           edgecolor='black', linewidth=0.5, label='Failure')
-    # Top bars (success) in light green with tiny blue tone (colorblind friendly)
-    plt.bar(timestamps, success_rates, width=bar_width, color='#66D9A6', alpha=0.8,
-           bottom=failure_rates, edgecolor='black', linewidth=0.5, label='Success')
+    # Plot measured data with normal colors
+    if measured_data:
+        timestamps = [item[0] for item in measured_data]
+        success_rates = [item[1] * 100 for item in measured_data]  # Convert to percentage
+        failure_rates = [100 - rate for rate in success_rates]  # Calculate failure percentage
+        
+        # Create stacked bar chart for measured data
+        # Bottom bars (failure) in orange-red (colorblind friendly)
+        plt.bar(timestamps, failure_rates, width=bar_width, color='#FF6B35', alpha=0.8, 
+               edgecolor='black', linewidth=0.5, label='Connection Failed')
+        # Top bars (success) in light green with tiny blue tone (colorblind friendly)
+        plt.bar(timestamps, success_rates, width=bar_width, color='#66D9A6', alpha=0.8,
+               bottom=failure_rates, edgecolor='black', linewidth=0.5, label='Connection Success')
+    
+    # Plot missing data with distinctive styling
+    if missing_data:
+        missing_timestamps = [item[0] for item in missing_data]
+        missing_heights = [100 for _ in missing_data]  # Full height bars
+        
+        # Create bars for missing data with dotted border and no fill
+        plt.bar(missing_timestamps, missing_heights, width=bar_width, 
+               color='none', edgecolor='black', linewidth=0.5, 
+               linestyle=':', label='No Data Recorded')
     
     # Set labels and title
     plt.title(f'Internet Connectivity Success/Failure Rate - {hostname} ({wifi_network})\n{interval_minutes}-minute intervals')
@@ -39,7 +54,7 @@ def plot_success_rates(data: List[Tuple[datetime.datetime, float]], hostname: st
     plt.ylabel('Rate (%)')
     
     # Add legend at the bottom, with more space below "Time" label
-    plt.legend(loc='upper center', bbox_to_anchor=(0.5, -0.35), ncol=2)
+    plt.legend(loc='upper center', bbox_to_anchor=(0.5, -0.35), ncol=3)
     
     # Set y-axis to 0-100%
     plt.ylim(0, 105)
