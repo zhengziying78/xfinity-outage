@@ -1,0 +1,168 @@
+2025-07-12 01:21:33 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.34s) - https://github.com: SUCCESS
+  (0.62s) - https://google.com: SUCCESS
+  (0.25s) - https://apple.com: SUCCESS
+  (0.55s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-12 01:22:39 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.14s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.32s) - https://apple.com: SUCCESS
+  (0.36s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-12 01:23:44 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.36s) - https://google.com: SUCCESS
+  (0.30s) - https://apple.com: SUCCESS
+  (0.55s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-12 02:57:52 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.78s) - https://github.com: SUCCESS
+  (1.07s) - https://google.com: SUCCESS
+  (0.96s) - https://apple.com: SUCCESS
+  (1.01s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-12 04:03:34 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.33s) - https://github.com: SUCCESS
+  (0.57s) - https://google.com: SUCCESS
+  (0.28s) - https://apple.com: SUCCESS
+  (0.58s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-12 04:04:40 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (0.17s) - https://github.com: SUCCESS
+  (0.34s) - https://google.com: SUCCESS
+  (0.29s) - https://apple.com: SUCCESS
+  (0.34s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-12 04:05:45 - WiFi: GoTitansFC - Internet: 4/4 sites accessible
+  (959.20s) - https://github.com: SUCCESS
+  (959.29s) - https://google.com: SUCCESS
+  (959.24s) - https://apple.com: SUCCESS
+  (959.30s) - https://reddit.com: SUCCESS
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-12 05:57:14 - WiFi: Not connected to WiFi - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-12 05:58:18 - WiFi: Not connected to WiFi - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-12 05:59:23 - WiFi: Not connected to WiFi - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-12 07:05:15 - WiFi: Not connected to WiFi - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-12 08:55:17 - WiFi: Not connected to WiFi - Internet: 0/4 sites accessible
+  (0.05s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-12 10:25:04 - WiFi: Not connected to WiFi - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-12 11:26:52 - WiFi: Not connected to WiFi - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-12 12:44:11 - WiFi: Not connected to WiFi - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-12 13:54:13 - WiFi: Not connected to WiFi - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-12 15:12:51 - WiFi: Not connected to WiFi - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-12 16:14:02 - WiFi: Not connected to WiFi - Internet: 0/4 sites accessible
+  (0.04s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.04s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-12 17:50:17 - WiFi: Not connected to WiFi - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-12 19:07:45 - WiFi: Not connected to WiFi - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-12 19:34:47 - WiFi: Not connected to WiFi - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-12 21:07:24 - WiFi: Not connected to WiFi - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-12 22:19:51 - WiFi: Not connected to WiFi - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
+2025-07-12 23:21:06 - WiFi: Not connected to WiFi - Internet: 0/4 sites accessible
+  (0.03s) - https://github.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://google.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://apple.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  (0.03s) - https://reddit.com: FAILED: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Hostname: Ziyings-MacBook-Pro.local
+
