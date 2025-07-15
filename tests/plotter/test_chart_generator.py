@@ -27,9 +27,9 @@ class TestPlotSuccessRates:
         
         # Test data
         test_data = [
-            (datetime.datetime(2025, 7, 10, 12, 0), 1.0),  # 100% success
-            (datetime.datetime(2025, 7, 10, 12, 15), 0.75),  # 75% success
-            (datetime.datetime(2025, 7, 10, 12, 30), 0.5),   # 50% success
+            (datetime.datetime(2025, 7, 10, 12, 0), 1.0, "measured"),  # 100% success
+            (datetime.datetime(2025, 7, 10, 12, 15), 0.75, "measured"),  # 75% success
+            (datetime.datetime(2025, 7, 10, 12, 30), 0.5, "measured"),   # 50% success
         ]
         
         result = plot_success_rates(test_data, 'test-host', 'TestNetwork', 15)
@@ -60,7 +60,7 @@ class TestPlotSuccessRates:
         
         # Test data
         test_data = [
-            (datetime.datetime(2025, 7, 10, 12, 0), 0.8),
+            (datetime.datetime(2025, 7, 10, 12, 0), 0.8, "measured"),
         ]
         
         output_file = '/tmp/test_plot.png'
@@ -84,9 +84,9 @@ class TestPlotSuccessRates:
         
         # Test data with specific success rates
         test_data = [
-            (datetime.datetime(2025, 7, 10, 12, 0), 1.0),    # 100% success
-            (datetime.datetime(2025, 7, 10, 12, 15), 0.75),  # 75% success  
-            (datetime.datetime(2025, 7, 10, 12, 30), 0.0),   # 0% success
+            (datetime.datetime(2025, 7, 10, 12, 0), 1.0, "measured"),    # 100% success
+            (datetime.datetime(2025, 7, 10, 12, 15), 0.75, "measured"),  # 75% success  
+            (datetime.datetime(2025, 7, 10, 12, 30), 0.0, "measured"),   # 0% success
         ]
         
         plot_success_rates(test_data, 'test-host', 'TestNetwork', 15)
@@ -116,7 +116,7 @@ class TestPlotSuccessRates:
         mock_plt.gca.return_value = mock_gca
         
         test_data = [
-            (datetime.datetime(2025, 7, 10, 12, 0), 1.0),
+            (datetime.datetime(2025, 7, 10, 12, 0), 1.0, "measured"),
         ]
         
         plot_success_rates(test_data, 'my-hostname', 'MyWiFiNetwork', 30)
@@ -139,7 +139,7 @@ class TestPlotSuccessRates:
         mock_plt.gca.return_value = mock_gca
         
         test_data = [
-            (datetime.datetime(2025, 7, 10, 12, 0), 1.0),
+            (datetime.datetime(2025, 7, 10, 12, 0), 1.0, "measured"),
         ]
         
         interval_minutes = 20
@@ -162,7 +162,7 @@ class TestPlotSuccessRates:
         mock_plt.gca.return_value = mock_gca
         
         test_data = [
-            (datetime.datetime(2025, 7, 10, 12, 0), 0.5),
+            (datetime.datetime(2025, 7, 10, 12, 0), 0.5, "measured"),
         ]
         
         plot_success_rates(test_data, 'test-host', 'TestNetwork', 15)
@@ -173,12 +173,12 @@ class TestPlotSuccessRates:
         # Failure bars (first call)
         failure_call = bar_calls[0]
         assert failure_call[1]['color'] == '#FF6B35'  # Orange-red
-        assert failure_call[1]['label'] == 'Failure'
+        assert failure_call[1]['label'] == 'Connection Failed'
         
         # Success bars (second call)
         success_call = bar_calls[1]
         assert success_call[1]['color'] == '#66D9A6'  # Light green
-        assert success_call[1]['label'] == 'Success'
+        assert success_call[1]['label'] == 'Connection Success'
     
     @patch('src.libs.plotter.chart_generator.plt')
     def test_plot_success_rates_axis_formatting(self, mock_plt):
@@ -191,7 +191,7 @@ class TestPlotSuccessRates:
         mock_gca.xaxis = mock_xaxis
         
         test_data = [
-            (datetime.datetime(2025, 7, 10, 12, 0), 1.0),
+            (datetime.datetime(2025, 7, 10, 12, 0), 1.0, "measured"),
         ]
         
         plot_success_rates(test_data, 'test-host', 'TestNetwork', 15)
@@ -211,7 +211,7 @@ class TestPlotSuccessRates:
         
         # Single data point
         test_data = [
-            (datetime.datetime(2025, 7, 10, 12, 0), 0.9),  # 90% success
+            (datetime.datetime(2025, 7, 10, 12, 0), 0.9, "measured"),  # 90% success
         ]
         
         result = plot_success_rates(test_data, 'test-host', 'TestNetwork')
@@ -231,8 +231,8 @@ class TestPlotSuccessRates:
         
         # Test with edge case values
         test_data = [
-            (datetime.datetime(2025, 7, 10, 12, 0), 0.0),   # 0% success
-            (datetime.datetime(2025, 7, 10, 12, 15), 1.0),  # 100% success
+            (datetime.datetime(2025, 7, 10, 12, 0), 0.0, "measured"),   # 0% success
+            (datetime.datetime(2025, 7, 10, 12, 15), 1.0, "measured"),  # 100% success
         ]
         
         plot_success_rates(test_data, '', '', 1)  # Edge case parameters
@@ -244,7 +244,7 @@ class TestPlotSuccessRates:
     def test_plot_success_rates_with_real_file(self):
         """Test with actual file creation (integration test)."""
         test_data = [
-            (datetime.datetime(2025, 7, 10, 12, 0), 0.8),
+            (datetime.datetime(2025, 7, 10, 12, 0), 0.8, "measured"),
         ]
         
         with tempfile.NamedTemporaryFile(suffix='.png', delete=False) as tmp_file:
